@@ -100,8 +100,10 @@ def fetch_all():
     roster = yget(f"team/{team_key}/roster;date={date_str}/players")
     save_json(f"roster_{date_str}.json", roster)
     save_json("roster_latest.json", roster)
+    save_pretty_json(f"roster_{date_str}_pretty.json", roster)
+    save_pretty_json("roster_latest_pretty.json", roster)
 
-       # Free agents pages (25 per page) — grab up to 300, stop early if <25 returned
+    # Free agents pages (25 per page) — grab up to 300, stop early if <25 returned
     start = 0
     max_pages = 12
     for _ in range(max_pages):
@@ -109,6 +111,8 @@ def fetch_all():
             f"league/{league_key}/players;status=FA;sort=AR;sort_type=lastweek;start={start};count=25"
         )
         save_json(f"fa_p{start}.json", fa)
+        save_pretty_json(f"fa_p{start}_pretty.json", fa)
+
 
         # Robust stop: read the count of players returned
         # Yahoo returns nested structures; count may live at fantasy_content->league->players->count
