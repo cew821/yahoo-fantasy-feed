@@ -47,6 +47,8 @@ def roster_date_for_tomorrow_et():
 def discover_league_and_team():
     # Get the user's MLB leagues, pick the most recent
     j = yget("users;use_login=1/games;game_keys=mlb/leagues")
+    save_json("debug_users.json", j)   # NEW: write full response for inspection
+    print("Wrote data/debug_users.json")  # NEW: confirm in logs
     # Walk the JSON to find the first league_key and team_key
     # Yahoo JSON is nested; do a small DFS to find keys
     def find_keys(obj):
