@@ -94,18 +94,38 @@ def fetch_all():
     save_json(f"roster_{date_str}.json", roster)
     save_json("roster_latest.json", roster)
 
-    # Free agents pages (25 per page) — grab first 150 to start
+       # Free agents pages (25 per page) — grab up to 300, stop early if <25 returned
     start = 0
-    max_pages = 6
-    for i in range(max_pages):
-        fa = yget(f"league/{league_key}/players;status=FA;sort=AR;sort_type=lastweek;start={start};count=25")
+    max_pages = 12
+    for _ in range(max_pages):
+        fa = yget(
+            f"league/{league_key}/players;status=FA;sort=AR;sort_type=lastweek;start={start};count=25"
+        )
         save_json(f"fa_p{start}.json", fa)
-        # stop early if fewer than 25 returned
-        # cheap check: string length; robust parsing later
-        blob = json.dumps(fa)
-        if blob.count('"player"') < 25:
+
+        # Robust stop: read the count of players returned
+        # Yahoo returns nested structures; count may live at fantasy_content->league->players->count
+        def find_count(obj):
+            if isinstance(obj, dict):
+                # common pattern
+                if "count" in obj and isinstance(obj["count"], int):
+                    return obj["count"]
+                for v in obj.values():
+                    c = find_count(v)
+                    if c is not None:
+                        return c
+            elif isinstance(obj, list):
+                for it in obj:
+                    c = find_count(it)
+                    if c is not None:
+                        return c
+            return None
+
+        cnt = find_count(fa)
+        if not cnt or cnt < 25:
             break
         start += 25
+
 
 if __name__ == "__main__":
     fetch_all()
