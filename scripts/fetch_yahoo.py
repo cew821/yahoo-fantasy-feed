@@ -84,6 +84,13 @@ def save_json(path, obj):
     tmp.write_text(json.dumps(obj, indent=2))
     tmp.replace(p)
 
+def save_pretty_json(path, obj):
+    p = OUTDIR / path
+    p.parent.mkdir(parents=True, exist_ok=True)
+    tmp = p.with_suffix(".tmp")
+    tmp.write_text(json.dumps(obj, indent=2))
+    tmp.replace(p)
+
 def fetch_all():
     league_key, team_key = discover_league_and_team()
     save_json("keys.json", {"league_key": league_key, "team_key": team_key})
