@@ -23,8 +23,12 @@ def get_access_token():
         },
         timeout=30,
     )
-    r.raise_for_status()
+    if r.status_code != 200:
+        # Print error details to help diagnose (no secrets revealed)
+        print("Yahoo token endpoint error:", r.status_code, r.text)
+        r.raise_for_status()
     return r.json()["access_token"]
+
 
 def yget(path, params=None):
     params = params or {}
