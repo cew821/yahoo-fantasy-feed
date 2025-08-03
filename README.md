@@ -1,2 +1,2 @@
 # yahoo-fantasy-feed
-Pulling fantasy baseball feed for analysis
+Toy project to automate analysis of my fantasy baseball league. Runs cron job to pull FAs and current roster and expose them as JSON at a public URL for downstream analysis.
