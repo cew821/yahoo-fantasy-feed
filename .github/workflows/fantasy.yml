@@ -41,12 +41,22 @@ jobs:
           name: yahoo-data
           path: data
 
-      - name: Commit data (if changed)
-        run: |
+       - name: Commit data (if changed)
+         run: |
+          echo ">>> listing repo root"
+          ls -la
+          echo ">>> listing data/"
+          ls -la data || true
+          git status
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --quiet && echo "No changes" || git commit -m "Update data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          # ensure we’re on the default branch with full history
+          git branch
+          git remote -v
+          git add data/*.json
+          git status
+          git commit -m "Update data $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "Nothing to commit"
+
       - name: Push
         if: success()
         run: |
