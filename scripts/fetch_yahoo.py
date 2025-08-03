@@ -45,33 +45,37 @@ def roster_date_for_tomorrow_et():
     return (et_now() + timedelta(days=1)).strftime("%Y-%m-%d")
 
 def discover_league_and_team():
-    # Get the user's MLB leagues, pick the most recent
-    j = yget("users;use_login=1/games;game_keys=mlb/leagues")
-    save_json("debug_users.json", j)   # NEW: write full response for inspection
-    print("Wrote data/debug_users.json")  # NEW: confirm in logs
-    # Walk the JSON to find the first league_key and team_key
-    # Yahoo JSON is nested; do a small DFS to find keys
-    def find_keys(obj):
-        league_key, team_key = None, None
+    """
+    Correct discovery: ask for TEAMS (not leagues). This endpoint returns team_key(s).
+    We then derive league_key from team_key.
+    """
+    j = yget("users;use_login=1/games;game_keys=mlb/teams")
+    # Walk the nested JSON to find the first team_key
+    def find_team_key(obj):
         if isinstance(obj, dict):
             for k, v in obj.items():
-                if k == "league_key":
-                    league_key = v
                 if k == "team_key":
-                    team_key = v
-                lk, tk = find_keys(v)
-                league_key = league_key or lk
-                team_key = team_key or tk
+                    return v
+                found = find_team_key(v)
+                if found:
+                    return found
         elif isinstance(obj, list):
             for it in obj:
-                lk, tk = find_keys(it)
-                if lk and not league_key: league_key = lk
-                if tk and not team_key: team_key = tk
-        return league_key, team_key
-    lk, tk = find_keys(j)
-    if not lk or not tk:
-        raise RuntimeError("Could not discover league_key/team_key from Yahoo response")
-    return lk, tk
+                found = find_team_key(it)
+                if found:
+                    return found
+        return None
+
+    team_key = find_team_key(j)
+    if not team_key:
+        raise RuntimeError("Could not find team_key in users→games→teams response")
+
+    # league_key is the part before ".t.#"
+    if ".t." not in team_key:
+        raise RuntimeError(f"team_key looks unexpected: {team_key}")
+    league_key = team_key.split(".t.")[0]
+    return league_key, team_key
+
 
 def save_json(path, obj):
     p = OUTDIR / path
