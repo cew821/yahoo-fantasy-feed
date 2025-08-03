@@ -3,8 +3,11 @@ name: Yahoo Fantasy Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "45 11 * * *"   # 7:45 AM US/Eastern
-    - cron: "0 12-22 * * 1-5"  # Hourly 8AM–6PM ET, Mon–Fri
+    - cron: "45 11 * * *"
+    - cron: "0 12-22 * * 1-5"
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
