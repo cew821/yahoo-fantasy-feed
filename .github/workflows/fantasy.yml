@@ -3,8 +3,8 @@ name: Yahoo Fantasy Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "45 11 * * *"
-    - cron: "0 12-22 * * 1-5"
+    - cron: '45 11 * * *'        # 7:45 AM US/Eastern
+    - cron: '0 12-22 * * 1-5'    # Hourly 8AM–6PM ET, Mon–Fri
 
 permissions:
   contents: write
@@ -15,11 +15,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install deps
         run: |
@@ -40,24 +42,19 @@ jobs:
         with:
           name: yahoo-data
           path: data
+          if-no-files-found: ignore
 
-       - name: Commit data (if changed)
-         run: |
-          echo ">>> listing repo root"
-          ls -la
-          echo ">>> listing data/"
-          ls -la data || true
-          git status
+      - name: Commit data (if changed) and push
+        run: |
+          echo ">>> listing repo root"; ls -la
+          echo ">>> listing data/"; ls -la data || true
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # ensure we’re on the default branch with full history
-          git branch
-          git remote -v
-          git add data/*.json
+          git add -A data
           git status
-          git commit -m "Update data $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "Nothing to commit"
-
-      - name: Push
-        if: success()
-        run: |
-          git push
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Update data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
