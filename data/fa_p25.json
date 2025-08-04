@@ -767,9 +767,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1754197642
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1754338844
                 }
               ]
             ]
@@ -2332,7 +2334,7 @@
         }
       }
     ],
-    "time": "95.137119293213ms",
+    "time": "87.606906890869ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
