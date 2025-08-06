@@ -696,6 +696,13 @@
                   "url": "https://sports.yahoo.com/mlb/players/11347"
                 },
                 {
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
+                },
+                {
+                  "injury_note": "Side"
+                },
+                {
                   "editorial_player_key": "mlb.p.11347"
                 },
                 {
@@ -761,7 +768,7 @@
                   "has_recent_player_notes": 1
                 },
                 {
-                  "player_notes_last_timestamp": 1754443879
+                  "player_notes_last_timestamp": 1754498843
                 }
               ]
             ]
@@ -2303,7 +2310,7 @@
         }
       }
     ],
-    "time": "108.93106460571ms",
+    "time": "87.800025939941ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
