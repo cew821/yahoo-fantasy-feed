@@ -1596,8 +1596,8 @@
                   "url": "https://sports.yahoo.com/mlb/players/11626"
                 },
                 {
-                  "status": "IL15",
-                  "status_full": "15-Day Injured List"
+                  "status": "IL60",
+                  "status_full": "60-Day Injured List"
                 },
                 {
                   "injury_note": "Shoulder"
@@ -1670,9 +1670,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1754347954
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1754515922
                 }
               ]
             ]
@@ -2307,7 +2309,7 @@
         }
       }
     ],
-    "time": "109.52401161194ms",
+    "time": "96.05598449707ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
