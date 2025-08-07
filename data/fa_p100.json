@@ -11,9 +11,9 @@
         "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24672848913_a81bd3b136.jpg",
         "draft_status": "postdraft",
         "num_teams": 10,
-        "edit_key": "2025-08-07",
+        "edit_key": "2025-08-08",
         "weekly_deadline": "",
-        "league_update_timestamp": "1754466625",
+        "league_update_timestamp": "1754553030",
         "scoring_type": "head",
         "league_type": "private",
         "renew": "431_84492",
@@ -39,37 +39,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.61948"
+                  "player_key": "458.p.10793"
                 },
                 {
-                  "player_id": "61948"
+                  "player_id": "10793"
                 },
                 {
                   "name": {
-                    "full": "Daniel Schneemann",
-                    "first": "Daniel",
-                    "last": "Schneemann",
-                    "ascii_first": "Daniel",
-                    "ascii_last": "Schneemann"
+                    "full": "John Curtiss",
+                    "first": "John",
+                    "last": "Curtiss",
+                    "ascii_first": "John",
+                    "ascii_last": "Curtiss"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/61948"
+                  "url": "https://sports.yahoo.com/mlb/players/10793"
                 },
                 {
-                  "editorial_player_key": "mlb.p.61948"
+                  "editorial_player_key": "mlb.p.10793"
                 },
                 {
-                  "editorial_team_key": "mlb.t.5"
+                  "editorial_team_key": "mlb.t.29"
                 },
                 {
-                  "editorial_team_full_name": "Cleveland Guardians"
+                  "editorial_team_full_name": "Arizona Diamondbacks"
                 },
                 {
-                  "editorial_team_abbr": "CLE"
+                  "editorial_team_abbr": "AZ"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/cleveland/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/arizona/"
                 },
                 {
                   "is_keeper": {
@@ -79,43 +79,34 @@
                   }
                 },
                 {
-                  "uniform_number": "10"
+                  "uniform_number": "46"
                 },
                 {
-                  "display_position": "2B,3B,SS,OF"
+                  "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/A8x9ABLzhgK88Ii9F7zJoA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192025/61948.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/T.9bXf.M_.Y8c7UsPo8t3A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06302025/10793.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/A8x9ABLzhgK88Ii9F7zJoA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192025/61948.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/T.9bXf.M_.Y8c7UsPo8t3A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06302025/10793.png"
                 },
                 {
                   "is_undroppable": "0"
                 },
                 {
-                  "position_type": "B"
+                  "position_type": "P"
                 },
                 {
-                  "primary_position": "2B"
+                  "primary_position": "RP"
                 },
                 {
                   "eligible_positions": [
                     {
-                      "position": "2B"
+                      "position": "RP"
                     },
                     {
-                      "position": "3B"
-                    },
-                    {
-                      "position": "SS"
-                    },
-                    {
-                      "position": "OF"
-                    },
-                    {
-                      "position": "Util"
+                      "position": "P"
                     }
                   ]
                 },
@@ -123,28 +114,10 @@
                   "eligible_positions_to_add": []
                 },
                 [],
-                {
-                  "icon_urls": {
-                    "player_card": {
-                      "dark": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
-                      "light": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
-                      "text": "Torpedo Bat"
-                    },
-                    "team_roster": {
-                      "dark": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
-                      "light": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png"
-                    }
-                  }
-                },
-                {
-                  "has_player_notes": 1
-                },
-                {
-                  "has_recent_player_notes": 1
-                },
-                {
-                  "player_notes_last_timestamp": 1754495709
-                }
+                [],
+                [],
+                [],
+                []
               ]
             ]
           },
@@ -152,37 +125,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.12199"
+                  "player_key": "458.p.11404"
                 },
                 {
-                  "player_id": "12199"
+                  "player_id": "11404"
                 },
                 {
                   "name": {
-                    "full": "Tommy Nance",
-                    "first": "Tommy",
-                    "last": "Nance",
-                    "ascii_first": "Tommy",
-                    "ascii_last": "Nance"
+                    "full": "Cole Winn",
+                    "first": "Cole",
+                    "last": "Winn",
+                    "ascii_first": "Cole",
+                    "ascii_last": "Winn"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/12199"
+                  "url": "https://sports.yahoo.com/mlb/players/11404"
                 },
                 {
-                  "editorial_player_key": "mlb.p.12199"
+                  "editorial_player_key": "mlb.p.11404"
                 },
                 {
-                  "editorial_team_key": "mlb.t.14"
+                  "editorial_team_key": "mlb.t.13"
                 },
                 {
-                  "editorial_team_full_name": "Toronto Blue Jays"
+                  "editorial_team_full_name": "Texas Rangers"
                 },
                 {
-                  "editorial_team_abbr": "TOR"
+                  "editorial_team_abbr": "TEX"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/toronto/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/texas/"
                 },
                 {
                   "is_keeper": {
@@ -192,17 +165,17 @@
                   }
                 },
                 {
-                  "uniform_number": "45"
+                  "uniform_number": "60"
                 },
                 {
                   "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/SO5hL.Lv_WAjvKOGCzPp1w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03312025/12199.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/bPu6S2g3XZGDAtYaqNmJRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03282025/11404.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/SO5hL.Lv_WAjvKOGCzPp1w--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03312025/12199.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/bPu6S2g3XZGDAtYaqNmJRw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03282025/11404.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -238,37 +211,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.12205"
+                  "player_key": "458.p.11926"
                 },
                 {
-                  "player_id": "12205"
+                  "player_id": "11926"
                 },
                 {
                   "name": {
-                    "full": "Sam Long",
-                    "first": "Sam",
-                    "last": "Long",
-                    "ascii_first": "Sam",
-                    "ascii_last": "Long"
+                    "full": "Reid Detmers",
+                    "first": "Reid",
+                    "last": "Detmers",
+                    "ascii_first": "Reid",
+                    "ascii_last": "Detmers"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/12205"
+                  "url": "https://sports.yahoo.com/mlb/players/11926"
                 },
                 {
-                  "editorial_player_key": "mlb.p.12205"
+                  "editorial_player_key": "mlb.p.11926"
                 },
                 {
-                  "editorial_team_key": "mlb.t.7"
+                  "editorial_team_key": "mlb.t.3"
                 },
                 {
-                  "editorial_team_full_name": "Kansas City Royals"
+                  "editorial_team_full_name": "Los Angeles Angels"
                 },
                 {
-                  "editorial_team_abbr": "KC"
+                  "editorial_team_abbr": "LAA"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/kansas-city/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/la-angels/"
                 },
                 {
                   "is_keeper": {
@@ -278,17 +251,17 @@
                   }
                 },
                 {
-                  "uniform_number": "73"
+                  "uniform_number": "48"
                 },
                 {
-                  "display_position": "RP"
+                  "display_position": "SP,RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/7m8m3_OywWnRdurWdi2uEw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242025/12205.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/khE_bJkVdYMmC9K.pfa9Kw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04222024/11926.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/7m8m3_OywWnRdurWdi2uEw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242025/12205.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/khE_bJkVdYMmC9K.pfa9Kw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04222024/11926.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -297,10 +270,13 @@
                   "position_type": "P"
                 },
                 {
-                  "primary_position": "RP"
+                  "primary_position": "SP"
                 },
                 {
                   "eligible_positions": [
+                    {
+                      "position": "SP"
+                    },
                     {
                       "position": "RP"
                     },
@@ -324,37 +300,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.63647"
+                  "player_key": "458.p.11113"
                 },
                 {
-                  "player_id": "63647"
+                  "player_id": "11113"
                 },
                 {
                   "name": {
-                    "full": "Grant Wolfram",
-                    "first": "Grant",
-                    "last": "Wolfram",
-                    "ascii_first": "Grant",
-                    "ascii_last": "Wolfram"
+                    "full": "Nick Anderson",
+                    "first": "Nick",
+                    "last": "Anderson",
+                    "ascii_first": "Nick",
+                    "ascii_last": "Anderson"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/63647"
+                  "url": "https://sports.yahoo.com/mlb/players/11113"
                 },
                 {
-                  "editorial_player_key": "mlb.p.63647"
+                  "editorial_player_key": "mlb.p.11113"
                 },
                 {
-                  "editorial_team_key": "mlb.t.1"
+                  "editorial_team_key": "mlb.t.27"
                 },
                 {
-                  "editorial_team_full_name": "Baltimore Orioles"
+                  "editorial_team_full_name": "Colorado Rockies"
                 },
                 {
-                  "editorial_team_abbr": "BAL"
+                  "editorial_team_abbr": "COL"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/baltimore/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/colorado/"
                 },
                 {
                   "is_keeper": {
@@ -364,17 +340,17 @@
                   }
                 },
                 {
-                  "uniform_number": "86"
+                  "uniform_number": "61"
                 },
                 {
                   "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/2bZ02BP803lVQ6CfpDaqkA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07152025/63647.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/RSUpwyjuWlY6Eojwm7yezw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07282025/11113.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/2bZ02BP803lVQ6CfpDaqkA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07152025/63647.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/RSUpwyjuWlY6Eojwm7yezw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07282025/11113.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -400,9 +376,13 @@
                 },
                 [],
                 [],
+                {
+                  "has_player_notes": 1
+                },
                 [],
-                [],
-                []
+                {
+                  "player_notes_last_timestamp": 1754240334
+                }
               ]
             ]
           },
@@ -410,37 +390,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.9262"
+                  "player_key": "458.p.60412"
                 },
                 {
-                  "player_id": "9262"
+                  "player_id": "60412"
                 },
                 {
                   "name": {
-                    "full": "Brooks Raley",
-                    "first": "Brooks",
-                    "last": "Raley",
-                    "ascii_first": "Brooks",
-                    "ascii_last": "Raley"
+                    "full": "Mason Montgomery",
+                    "first": "Mason",
+                    "last": "Montgomery",
+                    "ascii_first": "Mason",
+                    "ascii_last": "Montgomery"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/9262"
+                  "url": "https://sports.yahoo.com/mlb/players/60412"
                 },
                 {
-                  "editorial_player_key": "mlb.p.9262"
+                  "editorial_player_key": "mlb.p.60412"
                 },
                 {
-                  "editorial_team_key": "mlb.t.21"
+                  "editorial_team_key": "mlb.t.30"
                 },
                 {
-                  "editorial_team_full_name": "New York Mets"
+                  "editorial_team_full_name": "Tampa Bay Rays"
                 },
                 {
-                  "editorial_team_abbr": "NYM"
+                  "editorial_team_abbr": "TB"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/ny-mets/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/tampa-bay/"
                 },
                 {
                   "is_keeper": {
@@ -450,17 +430,17 @@
                   }
                 },
                 {
-                  "uniform_number": "25"
+                  "uniform_number": "48"
                 },
                 {
                   "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/vcqct7JL8ITKR4yuNBTFxA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04032024/9262.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/xAISzeDcLVLLSzXIv4Eshw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03122025/60412.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/vcqct7JL8ITKR4yuNBTFxA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04032024/9262.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/xAISzeDcLVLLSzXIv4Eshw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03122025/60412.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -493,6 +473,182 @@
             ]
           },
           "5": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.63454"
+                },
+                {
+                  "player_id": "63454"
+                },
+                {
+                  "name": {
+                    "full": "Max Lazar",
+                    "first": "Max",
+                    "last": "Lazar",
+                    "ascii_first": "Max",
+                    "ascii_last": "Lazar"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/63454"
+                },
+                {
+                  "editorial_player_key": "mlb.p.63454"
+                },
+                {
+                  "editorial_team_key": "mlb.t.22"
+                },
+                {
+                  "editorial_team_full_name": "Philadelphia Phillies"
+                },
+                {
+                  "editorial_team_abbr": "PHI"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/philadelphia/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "60"
+                },
+                {
+                  "display_position": "RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/Vz41Vs4HcP9_Ydxig8QDcw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/63454.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/Vz41Vs4HcP9_Ydxig8QDcw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/63454.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "RP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                [],
+                [],
+                []
+              ]
+            ]
+          },
+          "6": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.12631"
+                },
+                {
+                  "player_id": "12631"
+                },
+                {
+                  "name": {
+                    "full": "Matt Gage",
+                    "first": "Matt",
+                    "last": "Gage",
+                    "ascii_first": "Matt",
+                    "ascii_last": "Gage"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/12631"
+                },
+                {
+                  "editorial_player_key": "mlb.p.12631"
+                },
+                {
+                  "editorial_team_key": "mlb.t.26"
+                },
+                {
+                  "editorial_team_full_name": "San Francisco Giants"
+                },
+                {
+                  "editorial_team_abbr": "SF"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/san-francisco/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "93"
+                },
+                {
+                  "display_position": "RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/GG1nRKOmTn0Eo9m2paixyA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07212025/12631.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/GG1nRKOmTn0Eo9m2paixyA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07212025/12631.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "RP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                [],
+                {
+                  "player_notes_last_timestamp": 1753715413
+                }
+              ]
+            ]
+          },
+          "7": {
             "player": [
               [
                 {
@@ -578,41 +734,51 @@
               ]
             ]
           },
-          "6": {
+          "8": {
             "player": [
               [
                 {
-                  "player_key": "458.p.61601"
+                  "player_key": "458.p.11044"
                 },
                 {
-                  "player_id": "61601"
+                  "player_id": "11044"
                 },
                 {
                   "name": {
-                    "full": "Kyle Leahy",
-                    "first": "Kyle",
-                    "last": "Leahy",
-                    "ascii_first": "Kyle",
-                    "ascii_last": "Leahy"
+                    "full": "Jonathan Lo\u00e1isiga",
+                    "first": "Jonathan",
+                    "last": "Lo\u00e1isiga",
+                    "ascii_first": "Jonathan",
+                    "ascii_last": "Lo\u00e1isiga"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/61601"
+                  "url": "https://sports.yahoo.com/mlb/players/11044"
                 },
                 {
-                  "editorial_player_key": "mlb.p.61601"
+                  "status": "IL15",
+                  "status_full": "15-Day Injured List"
                 },
                 {
-                  "editorial_team_key": "mlb.t.24"
+                  "injury_note": "Back"
                 },
                 {
-                  "editorial_team_full_name": "St. Louis Cardinals"
+                  "on_disabled_list": "1"
                 },
                 {
-                  "editorial_team_abbr": "STL"
+                  "editorial_player_key": "mlb.p.11044"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/st-louis/"
+                  "editorial_team_key": "mlb.t.10"
+                },
+                {
+                  "editorial_team_full_name": "New York Yankees"
+                },
+                {
+                  "editorial_team_abbr": "NYY"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/ny-yankees/"
                 },
                 {
                   "is_keeper": {
@@ -622,17 +788,205 @@
                   }
                 },
                 {
-                  "uniform_number": "62"
+                  "uniform_number": "43"
                 },
                 {
                   "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/8sQqceXBk57BckDh97flng--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/61601.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/yOJWSUcHFrWnKYpD_DUrxA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04042025/11044.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/8sQqceXBk57BckDh97flng--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/61601.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/yOJWSUcHFrWnKYpD_DUrxA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04042025/11044.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "RP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    },
+                    {
+                      "position": "IL"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                [],
+                {
+                  "player_notes_last_timestamp": 1754235534
+                }
+              ]
+            ]
+          },
+          "9": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.10859"
+                },
+                {
+                  "player_id": "10859"
+                },
+                {
+                  "name": {
+                    "full": "Thomas Hatch",
+                    "first": "Thomas",
+                    "last": "Hatch",
+                    "ascii_first": "Thomas",
+                    "ascii_last": "Hatch"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/10859"
+                },
+                {
+                  "editorial_player_key": "mlb.p.10859"
+                },
+                {
+                  "editorial_team_key": "mlb.t.9"
+                },
+                {
+                  "editorial_team_full_name": "Minnesota Twins"
+                },
+                {
+                  "editorial_team_abbr": "MIN"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/minnesota/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "56"
+                },
+                {
+                  "display_position": "SP,RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/e5P6XGwydbd5ySWPVpn0UA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07312025/10859.1753991116.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/e5P6XGwydbd5ySWPVpn0UA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07312025/10859.1753991116.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "SP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "SP"
+                    },
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                {
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1754534830
+                }
+              ]
+            ]
+          },
+          "10": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.9262"
+                },
+                {
+                  "player_id": "9262"
+                },
+                {
+                  "name": {
+                    "full": "Brooks Raley",
+                    "first": "Brooks",
+                    "last": "Raley",
+                    "ascii_first": "Brooks",
+                    "ascii_last": "Raley"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/9262"
+                },
+                {
+                  "editorial_player_key": "mlb.p.9262"
+                },
+                {
+                  "editorial_team_key": "mlb.t.21"
+                },
+                {
+                  "editorial_team_full_name": "New York Mets"
+                },
+                {
+                  "editorial_team_abbr": "NYM"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/ny-mets/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "25"
+                },
+                {
+                  "display_position": "RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/vcqct7JL8ITKR4yuNBTFxA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04032024/9262.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/vcqct7JL8ITKR4yuNBTFxA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04032024/9262.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -664,118 +1018,29 @@
               ]
             ]
           },
-          "7": {
+          "11": {
             "player": [
               [
                 {
-                  "player_key": "458.p.9068"
+                  "player_key": "458.p.7977"
                 },
                 {
-                  "player_id": "9068"
-                },
-                {
-                  "name": {
-                    "full": "Drew Pomeranz",
-                    "first": "Drew",
-                    "last": "Pomeranz",
-                    "ascii_first": "Drew",
-                    "ascii_last": "Pomeranz"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/9068"
-                },
-                {
-                  "editorial_player_key": "mlb.p.9068"
-                },
-                {
-                  "editorial_team_key": "mlb.t.16"
-                },
-                {
-                  "editorial_team_full_name": "Chicago Cubs"
-                },
-                {
-                  "editorial_team_abbr": "CHC"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/chi-cubs/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "45"
-                },
-                {
-                  "display_position": "SP,RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/WVcF8WCNVw1ncT_fhvgYnA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05072025/9068.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/WVcF8WCNVw1ncT_fhvgYnA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05072025/9068.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "SP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "SP"
-                    },
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ]
-            ]
-          },
-          "8": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.12169"
-                },
-                {
-                  "player_id": "12169"
+                  "player_id": "7977"
                 },
                 {
                   "name": {
-                    "full": "Carmen Mlodzinski",
-                    "first": "Carmen",
-                    "last": "Mlodzinski",
-                    "ascii_first": "Carmen",
-                    "ascii_last": "Mlodzinski"
+                    "full": "Andrew McCutchen",
+                    "first": "Andrew",
+                    "last": "McCutchen",
+                    "ascii_first": "Andrew",
+                    "ascii_last": "McCutchen"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/12169"
+                  "url": "https://sports.yahoo.com/mlb/players/7977"
                 },
                 {
-                  "editorial_player_key": "mlb.p.12169"
+                  "editorial_player_key": "mlb.p.7977"
                 },
                 {
                   "editorial_team_key": "mlb.t.23"
@@ -797,106 +1062,17 @@
                   }
                 },
                 {
-                  "uniform_number": "50"
+                  "uniform_number": "22"
                 },
                 {
-                  "display_position": "SP,RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/dQuMTLkL4u5xyMWvAq0uxw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03122025/12169.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/dQuMTLkL4u5xyMWvAq0uxw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03122025/12169.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "SP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "SP"
-                    },
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ]
-            ]
-          },
-          "9": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.11817"
-                },
-                {
-                  "player_id": "11817"
-                },
-                {
-                  "name": {
-                    "full": "Bryson Stott",
-                    "first": "Bryson",
-                    "last": "Stott",
-                    "ascii_first": "Bryson",
-                    "ascii_last": "Stott"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/11817"
-                },
-                {
-                  "editorial_player_key": "mlb.p.11817"
-                },
-                {
-                  "editorial_team_key": "mlb.t.22"
-                },
-                {
-                  "editorial_team_full_name": "Philadelphia Phillies"
-                },
-                {
-                  "editorial_team_abbr": "PHI"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/philadelphia/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "5"
-                },
-                {
-                  "display_position": "2B,SS"
+                  "display_position": "OF"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/nhj0NaUyKiZQ3to7b.2WXQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/11817.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/btO.i2O5cZoMXDpS22pYCg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03042025/7977.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/nhj0NaUyKiZQ3to7b.2WXQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/11817.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/btO.i2O5cZoMXDpS22pYCg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03042025/7977.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -905,108 +1081,10 @@
                   "position_type": "B"
                 },
                 {
-                  "primary_position": "2B"
+                  "primary_position": "OF"
                 },
                 {
                   "eligible_positions": [
-                    {
-                      "position": "2B"
-                    },
-                    {
-                      "position": "SS"
-                    },
-                    {
-                      "position": "Util"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                {
-                  "has_player_notes": 1
-                },
-                {
-                  "has_recent_player_notes": 1
-                },
-                {
-                  "player_notes_last_timestamp": 1754488613
-                }
-              ]
-            ]
-          },
-          "10": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.10879"
-                },
-                {
-                  "player_id": "10879"
-                },
-                {
-                  "name": {
-                    "full": "Gavin Sheets",
-                    "first": "Gavin",
-                    "last": "Sheets",
-                    "ascii_first": "Gavin",
-                    "ascii_last": "Sheets"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/10879"
-                },
-                {
-                  "editorial_player_key": "mlb.p.10879"
-                },
-                {
-                  "editorial_team_key": "mlb.t.25"
-                },
-                {
-                  "editorial_team_full_name": "San Diego Padres"
-                },
-                {
-                  "editorial_team_abbr": "SD"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/san-diego/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "30"
-                },
-                {
-                  "display_position": "1B,OF"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/Va8siDLv23SrFj4GPA5Hdw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04042025/10879.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/Va8siDLv23SrFj4GPA5Hdw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04042025/10879.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "B"
-                },
-                {
-                  "primary_position": "1B"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "1B"
-                    },
                     {
                       "position": "OF"
                     },
@@ -1025,46 +1103,46 @@
                 },
                 [],
                 {
-                  "player_notes_last_timestamp": 1754252854
+                  "player_notes_last_timestamp": 1754246496
                 }
               ]
             ]
           },
-          "11": {
+          "12": {
             "player": [
               [
                 {
-                  "player_key": "458.p.10773"
+                  "player_key": "458.p.11479"
                 },
                 {
-                  "player_id": "10773"
+                  "player_id": "11479"
                 },
                 {
                   "name": {
-                    "full": "Aaron Bummer",
-                    "first": "Aaron",
-                    "last": "Bummer",
-                    "ascii_first": "Aaron",
-                    "ascii_last": "Bummer"
+                    "full": "Braydon Fisher",
+                    "first": "Braydon",
+                    "last": "Fisher",
+                    "ascii_first": "Braydon",
+                    "ascii_last": "Fisher"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/10773"
+                  "url": "https://sports.yahoo.com/mlb/players/11479"
                 },
                 {
-                  "editorial_player_key": "mlb.p.10773"
+                  "editorial_player_key": "mlb.p.11479"
                 },
                 {
-                  "editorial_team_key": "mlb.t.15"
+                  "editorial_team_key": "mlb.t.14"
                 },
                 {
-                  "editorial_team_full_name": "Atlanta Braves"
+                  "editorial_team_full_name": "Toronto Blue Jays"
                 },
                 {
-                  "editorial_team_abbr": "ATL"
+                  "editorial_team_abbr": "TOR"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/atlanta/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/toronto/"
                 },
                 {
                   "is_keeper": {
@@ -1074,17 +1152,17 @@
                   }
                 },
                 {
-                  "uniform_number": "49"
+                  "uniform_number": "63"
                 },
                 {
                   "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/pMAkSUlPnig0Vr0CjNUrQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/10773.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/IPE5p0DdhQP5hXK7Nj3X5Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05212025/11479.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/pMAkSUlPnig0Vr0CjNUrQg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/10773.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/IPE5p0DdhQP5hXK7Nj3X5Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05212025/11479.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -1116,33 +1194,121 @@
               ]
             ]
           },
-          "12": {
+          "13": {
             "player": [
               [
                 {
-                  "player_key": "458.p.11844"
+                  "player_key": "458.p.9176"
                 },
                 {
-                  "player_id": "11844"
+                  "player_id": "9176"
                 },
                 {
                   "name": {
-                    "full": "Seth Johnson",
-                    "first": "Seth",
-                    "last": "Johnson",
-                    "ascii_first": "Seth",
-                    "ascii_last": "Johnson"
+                    "full": "Jose Quintana",
+                    "first": "Jose",
+                    "last": "Quintana",
+                    "ascii_first": "Jose",
+                    "ascii_last": "Quintana"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/11844"
+                  "url": "https://sports.yahoo.com/mlb/players/9176"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
+                  "editorial_player_key": "mlb.p.9176"
                 },
                 {
-                  "editorial_player_key": "mlb.p.11844"
+                  "editorial_team_key": "mlb.t.8"
+                },
+                {
+                  "editorial_team_full_name": "Milwaukee Brewers"
+                },
+                {
+                  "editorial_team_abbr": "MIL"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/milwaukee/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "62"
+                },
+                {
+                  "display_position": "SP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/uLyCCwgT8qhOIQ5DYQCsYA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04162025/9176.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/uLyCCwgT8qhOIQ5DYQCsYA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04162025/9176.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "SP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "SP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                {
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1754547567
+                }
+              ]
+            ]
+          },
+          "14": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.60595"
+                },
+                {
+                  "player_id": "60595"
+                },
+                {
+                  "name": {
+                    "full": "Weston Wilson",
+                    "first": "Weston",
+                    "last": "Wilson",
+                    "ascii_first": "Weston",
+                    "ascii_last": "Wilson"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/60595"
+                },
+                {
+                  "editorial_player_key": "mlb.p.60595"
                 },
                 {
                   "editorial_team_key": "mlb.t.22"
@@ -1164,130 +1330,34 @@
                   }
                 },
                 {
-                  "uniform_number": "51"
+                  "uniform_number": "37"
                 },
                 {
-                  "display_position": "SP,RP"
+                  "display_position": "OF"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/0QIHnY6ygQoExHA3YPneMg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/11844.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/4.L3egEWAWlCMIU05A7IbQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/60595.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/0QIHnY6ygQoExHA3YPneMg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/11844.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/4.L3egEWAWlCMIU05A7IbQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03142025/60595.png"
                 },
                 {
                   "is_undroppable": "0"
                 },
                 {
-                  "position_type": "P"
+                  "position_type": "B"
                 },
                 {
-                  "primary_position": "SP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "SP"
-                    },
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                {
-                  "has_player_notes": 1
-                },
-                [],
-                {
-                  "player_notes_last_timestamp": 1754419483
-                }
-              ]
-            ]
-          },
-          "13": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.11400"
-                },
-                {
-                  "player_id": "11400"
-                },
-                {
-                  "name": {
-                    "full": "Tyler Phillips",
-                    "first": "Tyler",
-                    "last": "Phillips",
-                    "ascii_first": "Tyler",
-                    "ascii_last": "Phillips"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/11400"
-                },
-                {
-                  "editorial_player_key": "mlb.p.11400"
-                },
-                {
-                  "editorial_team_key": "mlb.t.28"
-                },
-                {
-                  "editorial_team_full_name": "Miami Marlins"
-                },
-                {
-                  "editorial_team_abbr": "MIA"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/miami/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "30"
-                },
-                {
-                  "display_position": "SP,RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/KlFRSf7k7u15Z5xVdOwchg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04082025/11400.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/KlFRSf7k7u15Z5xVdOwchg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04082025/11400.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "SP"
+                  "primary_position": "OF"
                 },
                 {
                   "eligible_positions": [
                     {
-                      "position": "SP"
+                      "position": "OF"
                     },
                     {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
+                      "position": "Util"
                     }
                   ]
                 },
@@ -1302,140 +1372,41 @@
               ]
             ]
           },
-          "14": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.12544"
-                },
-                {
-                  "player_id": "12544"
-                },
-                {
-                  "name": {
-                    "full": "Casey Schmitt",
-                    "first": "Casey",
-                    "last": "Schmitt",
-                    "ascii_first": "Casey",
-                    "ascii_last": "Schmitt"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/12544"
-                },
-                {
-                  "editorial_player_key": "mlb.p.12544"
-                },
-                {
-                  "editorial_team_key": "mlb.t.26"
-                },
-                {
-                  "editorial_team_full_name": "San Francisco Giants"
-                },
-                {
-                  "editorial_team_abbr": "SF"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/san-francisco/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "10"
-                },
-                {
-                  "display_position": "1B,2B,3B,SS"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/jxklgQVH.rPLNtJQUbiTIw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12544.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/jxklgQVH.rPLNtJQUbiTIw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03272025/12544.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "B"
-                },
-                {
-                  "primary_position": "1B"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "1B"
-                    },
-                    {
-                      "position": "2B"
-                    },
-                    {
-                      "position": "3B"
-                    },
-                    {
-                      "position": "SS"
-                    },
-                    {
-                      "position": "Util"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                {
-                  "has_player_notes": 1
-                },
-                [],
-                {
-                  "player_notes_last_timestamp": 1754268527
-                }
-              ]
-            ]
-          },
           "15": {
             "player": [
               [
                 {
-                  "player_key": "458.p.9272"
+                  "player_key": "458.p.60896"
                 },
                 {
-                  "player_id": "9272"
+                  "player_id": "60896"
                 },
                 {
                   "name": {
-                    "full": "Justin Wilson",
-                    "first": "Justin",
-                    "last": "Wilson",
-                    "ascii_first": "Justin",
-                    "ascii_last": "Wilson"
+                    "full": "Kade Strowd",
+                    "first": "Kade",
+                    "last": "Strowd",
+                    "ascii_first": "Kade",
+                    "ascii_last": "Strowd"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/9272"
+                  "url": "https://sports.yahoo.com/mlb/players/60896"
                 },
                 {
-                  "editorial_player_key": "mlb.p.9272"
+                  "editorial_player_key": "mlb.p.60896"
                 },
                 {
-                  "editorial_team_key": "mlb.t.2"
+                  "editorial_team_key": "mlb.t.1"
                 },
                 {
-                  "editorial_team_full_name": "Boston Red Sox"
+                  "editorial_team_full_name": "Baltimore Orioles"
                 },
                 {
-                  "editorial_team_abbr": "BOS"
+                  "editorial_team_abbr": "BAL"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/boston/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/baltimore/"
                 },
                 {
                   "is_keeper": {
@@ -1445,17 +1416,17 @@
                   }
                 },
                 {
-                  "uniform_number": "32"
+                  "uniform_number": "57"
                 },
                 {
                   "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/r055VJmTCD3WJ84ywRq0.A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04032025/9272.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/AHvleHmmi5v8uRp1gVmgxw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132025/60896.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/r055VJmTCD3WJ84ywRq0.A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04032025/9272.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/AHvleHmmi5v8uRp1gVmgxw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132025/60896.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -1491,37 +1462,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.12337"
+                  "player_key": "458.p.10864"
                 },
                 {
-                  "player_id": "12337"
+                  "player_id": "10864"
                 },
                 {
                   "name": {
-                    "full": "Jos\u00e9 Butt\u00f3",
-                    "first": "Jos\u00e9",
-                    "last": "Butt\u00f3",
-                    "ascii_first": "Jos\u00e9",
-                    "ascii_last": "Butt\u00f3"
+                    "full": "Tony Santillan",
+                    "first": "Tony",
+                    "last": "Santillan",
+                    "ascii_first": "Tony",
+                    "ascii_last": "Santillan"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/12337"
+                  "url": "https://sports.yahoo.com/mlb/players/10864"
                 },
                 {
-                  "editorial_player_key": "mlb.p.12337"
+                  "editorial_player_key": "mlb.p.10864"
                 },
                 {
-                  "editorial_team_key": "mlb.t.26"
+                  "editorial_team_key": "mlb.t.17"
                 },
                 {
-                  "editorial_team_full_name": "San Francisco Giants"
+                  "editorial_team_full_name": "Cincinnati Reds"
                 },
                 {
-                  "editorial_team_abbr": "SF"
+                  "editorial_team_abbr": "CIN"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/san-francisco/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/cincinnati/"
                 },
                 {
                   "is_keeper": {
@@ -1531,17 +1502,107 @@
                   }
                 },
                 {
-                  "uniform_number": "70"
+                  "uniform_number": "64"
+                },
+                {
+                  "display_position": "RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/VAhDvuqlmBrQLnkiE19a4A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192025/10864.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/VAhDvuqlmBrQLnkiE19a4A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03192025/10864.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "RP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                [],
+                {
+                  "player_notes_last_timestamp": 1753928767
+                }
+              ]
+            ]
+          },
+          "17": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.12182"
+                },
+                {
+                  "player_id": "12182"
+                },
+                {
+                  "name": {
+                    "full": "Cole Henry",
+                    "first": "Cole",
+                    "last": "Henry",
+                    "ascii_first": "Cole",
+                    "ascii_last": "Henry"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/12182"
+                },
+                {
+                  "editorial_player_key": "mlb.p.12182"
+                },
+                {
+                  "editorial_team_key": "mlb.t.20"
+                },
+                {
+                  "editorial_team_full_name": "Washington Nationals"
+                },
+                {
+                  "editorial_team_abbr": "WSH"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/washington/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "99"
                 },
                 {
                   "display_position": "SP,RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/VdY9uFLB04I68KLhlj6GDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/08052025/12337.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/ybHfHz8o.hYFUSByk2jlUw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03282025/12182.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/VdY9uFLB04I68KLhlj6GDg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/08052025/12337.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/ybHfHz8o.hYFUSByk2jlUw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03282025/12182.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -1575,46 +1636,46 @@
                 },
                 [],
                 {
-                  "player_notes_last_timestamp": 1753913440
+                  "player_notes_last_timestamp": 1754063799
                 }
               ]
             ]
           },
-          "17": {
+          "18": {
             "player": [
               [
                 {
-                  "player_key": "458.p.10047"
+                  "player_key": "458.p.61375"
                 },
                 {
-                  "player_id": "10047"
+                  "player_id": "61375"
                 },
                 {
                   "name": {
-                    "full": "Shawn Armstrong",
-                    "first": "Shawn",
-                    "last": "Armstrong",
-                    "ascii_first": "Shawn",
-                    "ascii_last": "Armstrong"
+                    "full": "Ryan Zeferjahn",
+                    "first": "Ryan",
+                    "last": "Zeferjahn",
+                    "ascii_first": "Ryan",
+                    "ascii_last": "Zeferjahn"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/10047"
+                  "url": "https://sports.yahoo.com/mlb/players/61375"
                 },
                 {
-                  "editorial_player_key": "mlb.p.10047"
+                  "editorial_player_key": "mlb.p.61375"
                 },
                 {
-                  "editorial_team_key": "mlb.t.13"
+                  "editorial_team_key": "mlb.t.3"
                 },
                 {
-                  "editorial_team_full_name": "Texas Rangers"
+                  "editorial_team_full_name": "Los Angeles Angels"
                 },
                 {
-                  "editorial_team_abbr": "TEX"
+                  "editorial_team_abbr": "LAA"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/texas/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/la-angels/"
                 },
                 {
                   "is_keeper": {
@@ -1624,17 +1685,17 @@
                   }
                 },
                 {
-                  "uniform_number": "43"
+                  "uniform_number": "56"
                 },
                 {
-                  "display_position": "SP,RP"
+                  "display_position": "RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/M0ViVb1vdIObrqMq.E8xjQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03282025/10047.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/JtPb5DNsvkNp5V7GHP2KnA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03252025/61375.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/M0ViVb1vdIObrqMq.E8xjQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03282025/10047.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/JtPb5DNsvkNp5V7GHP2KnA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03252025/61375.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -1643,13 +1704,10 @@
                   "position_type": "P"
                 },
                 {
-                  "primary_position": "SP"
+                  "primary_position": "RP"
                 },
                 {
                   "eligible_positions": [
-                    {
-                      "position": "SP"
-                    },
                     {
                       "position": "RP"
                     },
@@ -1669,7 +1727,97 @@
               ]
             ]
           },
-          "18": {
+          "19": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.9112"
+                },
+                {
+                  "player_id": "9112"
+                },
+                {
+                  "name": {
+                    "full": "Jurickson Profar",
+                    "first": "Jurickson",
+                    "last": "Profar",
+                    "ascii_first": "Jurickson",
+                    "ascii_last": "Profar"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/9112"
+                },
+                {
+                  "editorial_player_key": "mlb.p.9112"
+                },
+                {
+                  "editorial_team_key": "mlb.t.15"
+                },
+                {
+                  "editorial_team_full_name": "Atlanta Braves"
+                },
+                {
+                  "editorial_team_abbr": "ATL"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/atlanta/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "7"
+                },
+                {
+                  "display_position": "OF"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/P.maz4u8KABBSKFKTvg3pA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/9112.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/P.maz4u8KABBSKFKTvg3pA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/9112.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "B"
+                },
+                {
+                  "primary_position": "OF"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "OF"
+                    },
+                    {
+                      "position": "Util"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                [],
+                {
+                  "player_notes_last_timestamp": 1754413830
+                }
+              ]
+            ]
+          },
+          "20": {
             "player": [
               [
                 {
@@ -1755,7 +1903,93 @@
               ]
             ]
           },
-          "19": {
+          "21": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.12746"
+                },
+                {
+                  "player_id": "12746"
+                },
+                {
+                  "name": {
+                    "full": "Abner Uribe",
+                    "first": "Abner",
+                    "last": "Uribe",
+                    "ascii_first": "Abner",
+                    "ascii_last": "Uribe"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/12746"
+                },
+                {
+                  "editorial_player_key": "mlb.p.12746"
+                },
+                {
+                  "editorial_team_key": "mlb.t.8"
+                },
+                {
+                  "editorial_team_full_name": "Milwaukee Brewers"
+                },
+                {
+                  "editorial_team_abbr": "MIL"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/milwaukee/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "45"
+                },
+                {
+                  "display_position": "RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/1UNoeGmcnN9BuRQ2cqrBLQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/12746.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/1UNoeGmcnN9BuRQ2cqrBLQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/12746.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "RP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                [],
+                [],
+                []
+              ]
+            ]
+          },
+          "22": {
             "player": [
               [
                 {
@@ -1848,299 +2082,41 @@
               ]
             ]
           },
-          "20": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.11704"
-                },
-                {
-                  "player_id": "11704"
-                },
-                {
-                  "name": {
-                    "full": "Garrett Cleavinger",
-                    "first": "Garrett",
-                    "last": "Cleavinger",
-                    "ascii_first": "Garrett",
-                    "ascii_last": "Cleavinger"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/11704"
-                },
-                {
-                  "editorial_player_key": "mlb.p.11704"
-                },
-                {
-                  "editorial_team_key": "mlb.t.30"
-                },
-                {
-                  "editorial_team_full_name": "Tampa Bay Rays"
-                },
-                {
-                  "editorial_team_abbr": "TB"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/tampa-bay/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "60"
-                },
-                {
-                  "display_position": "RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/IT56BnK_XIlB3Tjv35wkPQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03122025/11704.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/IT56BnK_XIlB3Tjv35wkPQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03122025/11704.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "RP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ]
-            ]
-          },
-          "21": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.11479"
-                },
-                {
-                  "player_id": "11479"
-                },
-                {
-                  "name": {
-                    "full": "Braydon Fisher",
-                    "first": "Braydon",
-                    "last": "Fisher",
-                    "ascii_first": "Braydon",
-                    "ascii_last": "Fisher"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/11479"
-                },
-                {
-                  "editorial_player_key": "mlb.p.11479"
-                },
-                {
-                  "editorial_team_key": "mlb.t.14"
-                },
-                {
-                  "editorial_team_full_name": "Toronto Blue Jays"
-                },
-                {
-                  "editorial_team_abbr": "TOR"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/toronto/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "63"
-                },
-                {
-                  "display_position": "RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/IPE5p0DdhQP5hXK7Nj3X5Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05212025/11479.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/IPE5p0DdhQP5hXK7Nj3X5Q--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05212025/11479.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "RP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ]
-            ]
-          },
-          "22": {
-            "player": [
-              [
-                {
-                  "player_key": "458.p.10882"
-                },
-                {
-                  "player_id": "10882"
-                },
-                {
-                  "name": {
-                    "full": "Gregory Soto",
-                    "first": "Gregory",
-                    "last": "Soto",
-                    "ascii_first": "Gregory",
-                    "ascii_last": "Soto"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/10882"
-                },
-                {
-                  "editorial_player_key": "mlb.p.10882"
-                },
-                {
-                  "editorial_team_key": "mlb.t.21"
-                },
-                {
-                  "editorial_team_full_name": "New York Mets"
-                },
-                {
-                  "editorial_team_abbr": "NYM"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/ny-mets/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "65"
-                },
-                {
-                  "display_position": "RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/Rpl34dWaZqwB.vWsMvunJw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07282025/10882.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/Rpl34dWaZqwB.vWsMvunJw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/07282025/10882.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "RP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ]
-            ]
-          },
           "23": {
             "player": [
               [
                 {
-                  "player_key": "458.p.60204"
+                  "player_key": "458.p.12136"
                 },
                 {
-                  "player_id": "60204"
+                  "player_id": "12136"
                 },
                 {
                   "name": {
-                    "full": "Andrew Hoffmann",
-                    "first": "Andrew",
-                    "last": "Hoffmann",
-                    "ascii_first": "Andrew",
-                    "ascii_last": "Hoffmann"
+                    "full": "Brenton Doyle",
+                    "first": "Brenton",
+                    "last": "Doyle",
+                    "ascii_first": "Brenton",
+                    "ascii_last": "Doyle"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/60204"
+                  "url": "https://sports.yahoo.com/mlb/players/12136"
                 },
                 {
-                  "editorial_player_key": "mlb.p.60204"
+                  "editorial_player_key": "mlb.p.12136"
                 },
                 {
-                  "editorial_team_key": "mlb.t.29"
+                  "editorial_team_key": "mlb.t.27"
                 },
                 {
-                  "editorial_team_full_name": "Arizona Diamondbacks"
+                  "editorial_team_full_name": "Colorado Rockies"
                 },
                 {
-                  "editorial_team_abbr": "AZ"
+                  "editorial_team_abbr": "COL"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/arizona/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/colorado/"
                 },
                 {
                   "is_keeper": {
@@ -2150,34 +2126,34 @@
                   }
                 },
                 {
-                  "uniform_number": "56"
+                  "uniform_number": "9"
                 },
                 {
-                  "display_position": "RP"
+                  "display_position": "OF"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/TcM85WhJ.fAOHWf2QKLjIw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMDA7Y3I9MTtjdz0xNTM7ZHg9NzQ7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/XHQIMQPBR7n6.jdcgoEXrA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202025/12136.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/TcM85WhJ.fAOHWf2QKLjIw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMDA7Y3I9MTtjdz0xNTM7ZHg9NzQ7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/XHQIMQPBR7n6.jdcgoEXrA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03202025/12136.png"
                 },
                 {
                   "is_undroppable": "0"
                 },
                 {
-                  "position_type": "P"
+                  "position_type": "B"
                 },
                 {
-                  "primary_position": "RP"
+                  "primary_position": "OF"
                 },
                 {
                   "eligible_positions": [
                     {
-                      "position": "RP"
+                      "position": "OF"
                     },
                     {
-                      "position": "P"
+                      "position": "Util"
                     }
                   ]
                 },
@@ -2189,9 +2165,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1754348011
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1754502818
                 }
               ]
             ]
@@ -2200,47 +2178,37 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.11247"
+                  "player_key": "458.p.10422"
                 },
                 {
-                  "player_id": "11247"
+                  "player_id": "10422"
                 },
                 {
                   "name": {
-                    "full": "Trent Thornton",
-                    "first": "Trent",
-                    "last": "Thornton",
-                    "ascii_first": "Trent",
-                    "ascii_last": "Thornton"
+                    "full": "Kolby Allard",
+                    "first": "Kolby",
+                    "last": "Allard",
+                    "ascii_first": "Kolby",
+                    "ascii_last": "Allard"
                   }
                 },
                 {
-                  "url": "https://sports.yahoo.com/mlb/players/11247"
+                  "url": "https://sports.yahoo.com/mlb/players/10422"
                 },
                 {
-                  "status": "IL15",
-                  "status_full": "15-Day Injured List"
+                  "editorial_player_key": "mlb.p.10422"
                 },
                 {
-                  "injury_note": "Achilles"
+                  "editorial_team_key": "mlb.t.5"
                 },
                 {
-                  "on_disabled_list": "1"
+                  "editorial_team_full_name": "Cleveland Guardians"
                 },
                 {
-                  "editorial_player_key": "mlb.p.11247"
+                  "editorial_team_abbr": "CLE"
                 },
                 {
-                  "editorial_team_key": "mlb.t.12"
-                },
-                {
-                  "editorial_team_full_name": "Seattle Mariners"
-                },
-                {
-                  "editorial_team_abbr": "SEA"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/seattle/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/cleveland/"
                 },
                 {
                   "is_keeper": {
@@ -2250,17 +2218,17 @@
                   }
                 },
                 {
-                  "uniform_number": "46"
+                  "uniform_number": "49"
                 },
                 {
-                  "display_position": "RP"
+                  "display_position": "SP,RP"
                 },
                 {
                   "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/CWIOLad3K_NwLQTL3FVYHg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/11247.png",
+                    "url": "https://s.yimg.com/iu/api/res/1.2/biLAghGCT431CcHVE6ZEAQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06022025/10422.png",
                     "size": "small"
                   },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/CWIOLad3K_NwLQTL3FVYHg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/11247.png"
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/biLAghGCT431CcHVE6ZEAQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06022025/10422.png"
                 },
                 {
                   "is_undroppable": "0"
@@ -2269,18 +2237,18 @@
                   "position_type": "P"
                 },
                 {
-                  "primary_position": "RP"
+                  "primary_position": "SP"
                 },
                 {
                   "eligible_positions": [
+                    {
+                      "position": "SP"
+                    },
                     {
                       "position": "RP"
                     },
                     {
                       "position": "P"
-                    },
-                    {
-                      "position": "IL"
                     }
                   ]
                 },
@@ -2294,7 +2262,7 @@
                 },
                 [],
                 {
-                  "player_notes_last_timestamp": 1754431080
+                  "player_notes_last_timestamp": 1753924702
                 }
               ]
             ]
@@ -2303,7 +2271,7 @@
         }
       }
     ],
-    "time": "98.814964294434ms",
+    "time": "126.051902771ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
