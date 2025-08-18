@@ -1108,9 +1108,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1755459797
                 }
@@ -2143,11 +2141,14 @@
                   "url": "https://sports.yahoo.com/mlb/players/63624"
                 },
                 {
-                  "status": "DTD",
-                  "status_full": "Day-to-Day"
+                  "status": "IL10",
+                  "status_full": "10-Day Injured List"
                 },
                 {
                   "injury_note": "Oblique"
+                },
+                {
+                  "on_disabled_list": "1"
                 },
                 {
                   "editorial_player_key": "mlb.p.63624"
@@ -2200,6 +2201,9 @@
                     },
                     {
                       "position": "Util"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -2317,7 +2321,7 @@
         }
       }
     ],
-    "time": "104.88414764404ms",
+    "time": "166.28193855286ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

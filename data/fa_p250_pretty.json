@@ -143,13 +143,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/12212"
                 },
                 {
-                  "status": "DTD",
-                  "status_full": "Day-to-Day"
-                },
-                {
-                  "injury_note": "Undisclosed"
-                },
-                {
                   "editorial_player_key": "mlb.p.12212"
                 },
                 {
@@ -215,7 +208,7 @@
                   "has_recent_player_notes": 1
                 },
                 {
-                  "player_notes_last_timestamp": 1755470719
+                  "player_notes_last_timestamp": 1755545160
                 }
               ]
             ]
@@ -1795,6 +1788,10 @@
                   "url": "https://sports.yahoo.com/mlb/players/12418"
                 },
                 {
+                  "status": "NA",
+                  "status_full": "Not Active"
+                },
+                {
                   "editorial_player_key": "mlb.p.12418"
                 },
                 {
@@ -1856,9 +1853,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1755412577
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1755545790
                 }
               ]
             ]
@@ -2314,7 +2313,7 @@
         }
       }
     ],
-    "time": "97.69606590271ms",
+    "time": "123.41403961182ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
