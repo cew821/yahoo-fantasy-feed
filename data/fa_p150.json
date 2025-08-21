@@ -306,9 +306,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1755711820
                 }
@@ -1327,6 +1325,10 @@
                   "url": "https://sports.yahoo.com/mlb/players/64812"
                 },
                 {
+                  "status": "NA",
+                  "status_full": "Not Active"
+                },
+                {
                   "editorial_player_key": "mlb.p.64812"
                 },
                 {
@@ -2315,7 +2317,7 @@
         }
       }
     ],
-    "time": "118.06488037109ms",
+    "time": "107.03492164612ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
