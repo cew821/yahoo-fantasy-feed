@@ -883,6 +883,13 @@
                   "url": "https://sports.yahoo.com/mlb/players/10031"
                 },
                 {
+                  "status": "NA",
+                  "status_full": "Not Active"
+                },
+                {
+                  "injury_note": "Personal"
+                },
+                {
                   "editorial_player_key": "mlb.p.10031"
                 },
                 {
@@ -944,9 +951,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1755929144
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756154022
                 }
               ]
             ]
@@ -2309,7 +2318,7 @@
         }
       }
     ],
-    "time": "119.86994743347ms",
+    "time": "95.638036727905ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
