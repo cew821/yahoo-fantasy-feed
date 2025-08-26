@@ -2912,9 +2912,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1756127731
                     }
@@ -2944,12 +2942,12 @@
           "outs_pitched": {
             "coverage_type": "week",
             "coverage_value": 21,
-            "value": "0"
+            "value": "45"
           }
         }
       }
     ],
-    "time": "90.751886367798ms",
+    "time": "85.316896438599ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
