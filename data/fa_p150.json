@@ -11,7 +11,7 @@
         "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24672848913_a81bd3b136.jpg",
         "draft_status": "postdraft",
         "num_teams": 10,
-        "edit_key": "2025-08-26",
+        "edit_key": "2025-08-27",
         "weekly_deadline": "",
         "league_update_timestamp": "1756109960",
         "scoring_type": "head",
@@ -19,7 +19,7 @@
         "renew": "431_84492",
         "renewed": "",
         "felo_tier": "silver",
-        "matchup_week": 20,
+        "matchup_week": 21,
         "iris_group_chat_id": "",
         "allow_add_to_dl_extra_pos": 1,
         "is_pro_league": "0",
@@ -1389,9 +1389,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756092156
                 }
@@ -1833,18 +1831,7 @@
                 [],
                 [],
                 []
-              ],
-              {
-                "starting_status": [
-                  {
-                    "coverage_type": "date",
-                    "date": "2025-08-26"
-                  },
-                  {
-                    "is_starting": 1
-                  }
-                ]
-              }
+              ]
             ]
           },
           "20": {
@@ -2106,13 +2093,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1755297221
-                }
+                [],
+                []
               ]
             ]
           },
@@ -2292,9 +2275,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756084991
                 }
@@ -2305,7 +2286,7 @@
         }
       }
     ],
-    "time": "133.51893424988ms",
+    "time": "121.78421020508ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

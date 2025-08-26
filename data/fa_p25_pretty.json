@@ -11,7 +11,7 @@
         "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24672848913_a81bd3b136.jpg",
         "draft_status": "postdraft",
         "num_teams": 10,
-        "edit_key": "2025-08-26",
+        "edit_key": "2025-08-27",
         "weekly_deadline": "",
         "league_update_timestamp": "1756109960",
         "scoring_type": "head",
@@ -19,7 +19,7 @@
         "renew": "431_84492",
         "renewed": "",
         "felo_tier": "silver",
-        "matchup_week": 20,
+        "matchup_week": 21,
         "iris_group_chat_id": "",
         "allow_add_to_dl_extra_pos": 1,
         "is_pro_league": "0",
@@ -298,9 +298,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756067614
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756191456
                 }
               ]
             ]
@@ -388,9 +390,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756090136
                 }
@@ -1295,9 +1295,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756074509
                 }
@@ -1657,7 +1655,18 @@
                 {
                   "player_notes_last_timestamp": 1755930444
                 }
-              ]
+              ],
+              {
+                "starting_status": [
+                  {
+                    "coverage_type": "date",
+                    "date": "2025-08-27"
+                  },
+                  {
+                    "is_starting": 1
+                  }
+                ]
+              }
             ]
           },
           "18": {
@@ -1926,18 +1935,7 @@
                 {
                   "player_notes_last_timestamp": 1755782780
                 }
-              ],
-              {
-                "starting_status": [
-                  {
-                    "coverage_type": "date",
-                    "date": "2025-08-26"
-                  },
-                  {
-                    "is_starting": 1
-                  }
-                ]
-              }
+              ]
             ]
           },
           "21": {
@@ -2305,25 +2303,14 @@
                 {
                   "player_notes_last_timestamp": 1755788176
                 }
-              ],
-              {
-                "starting_status": [
-                  {
-                    "coverage_type": "date",
-                    "date": "2025-08-26"
-                  },
-                  {
-                    "is_starting": 1
-                  }
-                ]
-              }
+              ]
             ]
           },
           "count": 25
         }
       }
     ],
-    "time": "105.77511787415ms",
+    "time": "85.3590965271ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

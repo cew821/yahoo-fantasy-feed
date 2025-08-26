@@ -11,7 +11,7 @@
         "logo_url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24672848913_a81bd3b136.jpg",
         "draft_status": "postdraft",
         "num_teams": 10,
-        "edit_key": "2025-08-26",
+        "edit_key": "2025-08-27",
         "weekly_deadline": "",
         "league_update_timestamp": "1756109960",
         "scoring_type": "head",
@@ -19,7 +19,7 @@
         "renew": "431_84492",
         "renewed": "",
         "felo_tier": "silver",
-        "matchup_week": 20,
+        "matchup_week": 21,
         "iris_group_chat_id": "",
         "allow_add_to_dl_extra_pos": 1,
         "is_pro_league": "0",
@@ -1298,9 +1298,15 @@
                 },
                 [],
                 [],
-                [],
-                [],
-                []
+                {
+                  "has_player_notes": 1
+                },
+                {
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756186529
+                }
               ]
             ]
           },
@@ -1645,9 +1651,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756001035
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756182567
                 }
               ]
             ]
@@ -1821,9 +1829,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756087043
                 }
@@ -2284,7 +2290,7 @@
         }
       }
     ],
-    "time": "90.951919555664ms",
+    "time": "89.881896972656ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
