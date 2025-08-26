@@ -150,16 +150,16 @@
                   "editorial_player_key": "mlb.p.11902"
                 },
                 {
-                  "editorial_team_key": "mlb.t.18"
+                  "editorial_team_key": "mlb.t.1"
                 },
                 {
-                  "editorial_team_full_name": "Houston Astros"
+                  "editorial_team_full_name": "Baltimore Orioles"
                 },
                 {
-                  "editorial_team_abbr": "HOU"
+                  "editorial_team_abbr": "BAL"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/houston/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/baltimore/"
                 },
                 {
                   "is_keeper": {
@@ -208,9 +208,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1755978771
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756233052
                 }
               ]
             ]
@@ -1274,6 +1276,10 @@
                   "url": "https://sports.yahoo.com/mlb/players/10246"
                 },
                 {
+                  "status": "NA",
+                  "status_full": "Not Active"
+                },
+                {
                   "editorial_player_key": "mlb.p.10246"
                 },
                 {
@@ -1335,9 +1341,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1755890708
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756233045
                 }
               ]
             ]
@@ -2335,7 +2343,7 @@
         }
       }
     ],
-    "time": "100.25477409363ms",
+    "time": "152.51708030701ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
