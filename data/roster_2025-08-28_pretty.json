@@ -219,6 +219,13 @@
                       "url": "https://sports.yahoo.com/mlb/players/8658"
                     },
                     {
+                      "status": "DTD",
+                      "status_full": "Day-to-Day"
+                    },
+                    {
+                      "injury_note": "Neck"
+                    },
+                    {
                       "editorial_player_key": "mlb.p.8658"
                     },
                     {
@@ -280,9 +287,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1756078714
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1756332221
                     }
                   ],
                   {
@@ -387,9 +396,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1755608091
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1756331536
                     }
                   ],
                   {
@@ -1164,7 +1175,7 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1756261162
+                      "player_notes_last_timestamp": 1756330519
                     }
                   ],
                   {
@@ -2965,7 +2976,7 @@
         }
       }
     ],
-    "time": "87.523937225342ms",
+    "time": "101.25303268433ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

@@ -39,92 +39,6 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.9782"
-                },
-                {
-                  "player_id": "9782"
-                },
-                {
-                  "name": {
-                    "full": "Andrew Chafin",
-                    "first": "Andrew",
-                    "last": "Chafin",
-                    "ascii_first": "Andrew",
-                    "ascii_last": "Chafin"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/9782"
-                },
-                {
-                  "editorial_player_key": "mlb.p.9782"
-                },
-                {
-                  "editorial_team_key": "mlb.t.3"
-                },
-                {
-                  "editorial_team_full_name": "Los Angeles Angels"
-                },
-                {
-                  "editorial_team_abbr": "LAA"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/la-angels/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "39"
-                },
-                {
-                  "display_position": "RP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/M_VEgDD4j.wMCQ_FQnrYJg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05082025/9782.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/M_VEgDD4j.wMCQ_FQnrYJg--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05082025/9782.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "RP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "RP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ]
-            ]
-          },
-          "1": {
-            "player": [
-              [
-                {
                   "player_key": "458.p.10133"
                 },
                 {
@@ -213,7 +127,7 @@
               ]
             ]
           },
-          "2": {
+          "1": {
             "player": [
               [
                 {
@@ -318,7 +232,7 @@
               ]
             ]
           },
-          "3": {
+          "2": {
             "player": [
               [
                 {
@@ -413,7 +327,7 @@
               ]
             ]
           },
-          "4": {
+          "3": {
             "player": [
               [
                 {
@@ -499,7 +413,7 @@
               ]
             ]
           },
-          "5": {
+          "4": {
             "player": [
               [
                 {
@@ -519,6 +433,13 @@
                 },
                 {
                   "url": "https://sports.yahoo.com/mlb/players/10748"
+                },
+                {
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
+                },
+                {
+                  "injury_note": "Head"
                 },
                 {
                   "editorial_player_key": "mlb.p.10748"
@@ -585,14 +506,16 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756007044
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756331467
                 }
               ]
             ]
           },
-          "6": {
+          "5": {
             "player": [
               [
                 {
@@ -678,7 +601,7 @@
               ]
             ]
           },
-          "7": {
+          "6": {
             "player": [
               [
                 {
@@ -773,7 +696,7 @@
               ]
             ]
           },
-          "8": {
+          "7": {
             "player": [
               [
                 {
@@ -863,7 +786,7 @@
               ]
             ]
           },
-          "9": {
+          "8": {
             "player": [
               [
                 {
@@ -953,7 +876,7 @@
               ]
             ]
           },
-          "10": {
+          "9": {
             "player": [
               [
                 {
@@ -1049,7 +972,7 @@
               ]
             ]
           },
-          "11": {
+          "10": {
             "player": [
               [
                 {
@@ -1142,7 +1065,7 @@
               ]
             ]
           },
-          "12": {
+          "11": {
             "player": [
               [
                 {
@@ -1235,7 +1158,7 @@
               ]
             ]
           },
-          "13": {
+          "12": {
             "player": [
               [
                 {
@@ -1329,7 +1252,7 @@
               ]
             ]
           },
-          "14": {
+          "13": {
             "player": [
               [
                 {
@@ -1422,7 +1345,7 @@
               ]
             ]
           },
-          "15": {
+          "14": {
             "player": [
               [
                 {
@@ -1530,7 +1453,7 @@
               ]
             ]
           },
-          "16": {
+          "15": {
             "player": [
               [
                 {
@@ -1616,7 +1539,7 @@
               ]
             ]
           },
-          "17": {
+          "16": {
             "player": [
               [
                 {
@@ -1705,7 +1628,7 @@
               ]
             ]
           },
-          "18": {
+          "17": {
             "player": [
               [
                 {
@@ -1795,7 +1718,7 @@
               ]
             ]
           },
-          "19": {
+          "18": {
             "player": [
               [
                 {
@@ -1885,7 +1808,7 @@
               ]
             ]
           },
-          "20": {
+          "19": {
             "player": [
               [
                 {
@@ -1971,7 +1894,7 @@
               ]
             ]
           },
-          "21": {
+          "20": {
             "player": [
               [
                 {
@@ -2061,7 +1984,7 @@
               ]
             ]
           },
-          "22": {
+          "21": {
             "player": [
               [
                 {
@@ -2158,7 +2081,7 @@
               ]
             ]
           },
-          "23": {
+          "22": {
             "player": [
               [
                 {
@@ -2247,7 +2170,7 @@
               ]
             ]
           },
-          "24": {
+          "23": {
             "player": [
               [
                 {
@@ -2341,11 +2264,97 @@
               ]
             ]
           },
+          "24": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.11068"
+                },
+                {
+                  "player_id": "11068"
+                },
+                {
+                  "name": {
+                    "full": "Matt Festa",
+                    "first": "Matt",
+                    "last": "Festa",
+                    "ascii_first": "Matt",
+                    "ascii_last": "Festa"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/11068"
+                },
+                {
+                  "editorial_player_key": "mlb.p.11068"
+                },
+                {
+                  "editorial_team_key": "mlb.t.5"
+                },
+                {
+                  "editorial_team_full_name": "Cleveland Guardians"
+                },
+                {
+                  "editorial_team_abbr": "CLE"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/cleveland/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "52"
+                },
+                {
+                  "display_position": "RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/NHktfY6U.x0tM3xeSdRcOA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05082025/11068.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/NHktfY6U.x0tM3xeSdRcOA--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/05082025/11068.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "RP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                [],
+                [],
+                []
+              ]
+            ]
+          },
           "count": 25
         }
       }
     ],
-    "time": "182.33108520508ms",
+    "time": "116.49703979492ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
