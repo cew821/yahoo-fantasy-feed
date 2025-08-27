@@ -118,9 +118,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756218605
                 }
@@ -1604,9 +1602,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756217526
                 }
@@ -1996,11 +1992,14 @@
                   "url": "https://sports.yahoo.com/mlb/players/12263"
                 },
                 {
-                  "status": "DTD",
-                  "status_full": "Day-to-Day"
+                  "status": "IL15",
+                  "status_full": "15-Day Injured List"
                 },
                 {
-                  "injury_note": "Arm"
+                  "injury_note": "Elbow"
+                },
+                {
+                  "on_disabled_list": "1"
                 },
                 {
                   "editorial_player_key": "mlb.p.12263"
@@ -2056,6 +2055,9 @@
                     },
                     {
                       "position": "P"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -2067,9 +2069,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1755987497
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756304570
                 }
               ],
               {
@@ -2355,7 +2359,7 @@
         }
       }
     ],
-    "time": "101.69196128845ms",
+    "time": "115.01097679138ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
