@@ -1336,9 +1336,6 @@
                   "status_full": "Not Active"
                 },
                 {
-                  "injury_note": "Personal"
-                },
-                {
                   "editorial_player_key": "mlb.p.10031"
                 },
                 {
@@ -1400,9 +1397,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756154022
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756410674
                 }
               ],
               {
@@ -2315,7 +2314,7 @@
         }
       }
     ],
-    "time": "187.97898292542ms",
+    "time": "95.979928970337ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
