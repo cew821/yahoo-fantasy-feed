@@ -962,10 +962,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/12675"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.12675"
                 },
                 {
@@ -1027,9 +1023,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756489352
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756843885
                 }
               ]
             ]
@@ -2316,7 +2314,7 @@
         }
       }
     ],
-    "time": "121.05393409729ms",
+    "time": "118.73316764832ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
