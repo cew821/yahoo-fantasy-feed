@@ -605,16 +605,16 @@
                   "editorial_player_key": "mlb.p.11032"
                 },
                 {
-                  "editorial_team_key": "mlb.t.21"
+                  "editorial_team_key": "mlb.t.12"
                 },
                 {
-                  "editorial_team_full_name": "New York Mets"
+                  "editorial_team_full_name": "Seattle Mariners"
                 },
                 {
-                  "editorial_team_abbr": "NYM"
+                  "editorial_team_abbr": "SEA"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/ny-mets/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/seattle/"
                 },
                 {
                   "is_keeper": {
@@ -663,9 +663,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756574598
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756928437
                 }
               ]
             ]
@@ -2317,7 +2319,7 @@
         }
       }
     ],
-    "time": "107.71298408508ms",
+    "time": "118.30711364746ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
