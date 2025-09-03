@@ -605,9 +605,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1756091966
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1756923030
                     }
                   ],
                   {
@@ -2779,9 +2781,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1756154833
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1756923396
                     }
                   ],
                   {
@@ -2936,7 +2940,7 @@
         }
       }
     ],
-    "time": "81.907987594604ms",
+    "time": "93.683004379272ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
