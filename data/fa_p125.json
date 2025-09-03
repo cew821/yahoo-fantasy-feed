@@ -162,10 +162,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/11804"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.11804"
                 },
                 {
@@ -188,7 +184,7 @@
                   }
                 },
                 {
-                  "uniform_number": "66"
+                  "uniform_number": "59"
                 },
                 {
                   "display_position": "SP,RP"
@@ -524,6 +520,16 @@
                   "url": "https://sports.yahoo.com/mlb/players/61590"
                 },
                 {
+                  "status": "IL15",
+                  "status_full": "15-Day Injured List"
+                },
+                {
+                  "injury_note": "Forearm"
+                },
+                {
+                  "on_disabled_list": "1"
+                },
+                {
                   "editorial_player_key": "mlb.p.61590"
                 },
                 {
@@ -574,6 +580,9 @@
                     },
                     {
                       "position": "P"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -585,9 +594,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756241831
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1756931494
                 }
               ]
             ]
@@ -2290,7 +2301,7 @@
         }
       }
     ],
-    "time": "103.15585136414ms",
+    "time": "113.52610588074ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
