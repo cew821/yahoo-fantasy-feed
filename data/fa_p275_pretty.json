@@ -1500,10 +1500,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/11032"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.11032"
                 },
                 {
@@ -1526,7 +1522,7 @@
                   }
                 },
                 {
-                  "uniform_number": "54"
+                  "uniform_number": "67"
                 },
                 {
                   "display_position": "RP"
@@ -1565,9 +1561,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756928437
                 }
@@ -2333,7 +2327,7 @@
         }
       }
     ],
-    "time": "147.95589447021ms",
+    "time": "132.00688362122ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
