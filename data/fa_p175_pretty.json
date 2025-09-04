@@ -491,9 +491,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1756931494
                 }
@@ -1783,10 +1781,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/12724"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.12724"
                 },
                 {
@@ -1855,7 +1849,7 @@
                   "has_recent_player_notes": 1
                 },
                 {
-                  "player_notes_last_timestamp": 1756931330
+                  "player_notes_last_timestamp": 1757018304
                 }
               ]
             ]
@@ -2155,6 +2149,16 @@
                   "url": "https://sports.yahoo.com/mlb/players/12769"
                 },
                 {
+                  "status": "IL15",
+                  "status_full": "15-Day Injured List"
+                },
+                {
+                  "injury_note": "Elbow"
+                },
+                {
+                  "on_disabled_list": "1"
+                },
+                {
                   "editorial_player_key": "mlb.p.12769"
                 },
                 {
@@ -2205,6 +2209,9 @@
                     },
                     {
                       "position": "P"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -2213,9 +2220,15 @@
                 },
                 [],
                 [],
-                [],
-                [],
-                []
+                {
+                  "has_player_notes": 1
+                },
+                {
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1757018063
+                }
               ]
             ]
           },
@@ -2309,7 +2322,7 @@
         }
       }
     ],
-    "time": "136.35993003845ms",
+    "time": "164.68811035156ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
