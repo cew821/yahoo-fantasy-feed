@@ -1,7 +1,7 @@
 {
   "fantasy_content": {
     "xml:lang": "en-US",
-    "yahoo:uri": "/fantasy/v2/team/458.l.17400.t.3/roster;date=2025-09-05/players",
+    "yahoo:uri": "/fantasy/v2/team/458.l.17400.t.3/roster;date=2025-09-06/players",
     "team": [
       [
         {
@@ -38,7 +38,7 @@
         },
         [],
         {
-          "number_of_moves": 53
+          "number_of_moves": 54
         },
         {
           "number_of_trades": 0
@@ -47,7 +47,7 @@
           "roster_adds": {
             "coverage_type": "week",
             "coverage_value": 22,
-            "value": "2"
+            "value": "3"
           }
         },
         {
@@ -85,7 +85,7 @@
       {
         "roster": {
           "coverage_type": "date",
-          "date": "2025-09-05",
+          "date": "2025-09-06",
           "is_prescoring": 0,
           "is_editable": 1,
           "0": {
@@ -184,14 +184,14 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1757019175
+                      "player_notes_last_timestamp": 1757036318
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "C"
@@ -298,7 +298,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "1B"
@@ -405,7 +405,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "2B"
@@ -520,7 +520,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "3B"
@@ -627,7 +627,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "SS"
@@ -736,7 +736,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "OF"
@@ -843,7 +843,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "OF"
@@ -950,7 +950,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "OF"
@@ -1060,7 +1060,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "Util"
@@ -1164,16 +1164,18 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1756844800
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757054457
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "Util"
@@ -1280,7 +1282,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "BN"
@@ -1296,113 +1298,6 @@
                 ]
               },
               "11": {
-                "player": [
-                  [
-                    {
-                      "player_key": "458.p.63640"
-                    },
-                    {
-                      "player_id": "63640"
-                    },
-                    {
-                      "name": {
-                        "full": "Shota Imanaga",
-                        "first": "Shota",
-                        "last": "Imanaga",
-                        "ascii_first": "Shota",
-                        "ascii_last": "Imanaga"
-                      }
-                    },
-                    {
-                      "url": "https://sports.yahoo.com/mlb/players/63640"
-                    },
-                    {
-                      "editorial_player_key": "mlb.p.63640"
-                    },
-                    {
-                      "editorial_team_key": "mlb.t.16"
-                    },
-                    {
-                      "editorial_team_full_name": "Chicago Cubs"
-                    },
-                    {
-                      "editorial_team_abbr": "CHC"
-                    },
-                    {
-                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/chi-cubs/"
-                    },
-                    {
-                      "is_keeper": {
-                        "status": false,
-                        "cost": false,
-                        "kept": false
-                      }
-                    },
-                    {
-                      "uniform_number": "18"
-                    },
-                    {
-                      "display_position": "SP"
-                    },
-                    {
-                      "headshot": {
-                        "url": "https://s.yimg.com/iu/api/res/1.2/_hofgSLYVYUEMM3nDyYbPw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/63640.png",
-                        "size": "small"
-                      },
-                      "image_url": "https://s.yimg.com/iu/api/res/1.2/_hofgSLYVYUEMM3nDyYbPw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/63640.png"
-                    },
-                    {
-                      "is_undroppable": "0"
-                    },
-                    {
-                      "position_type": "P"
-                    },
-                    {
-                      "primary_position": "SP"
-                    },
-                    {
-                      "eligible_positions": [
-                        {
-                          "position": "SP"
-                        },
-                        {
-                          "position": "P"
-                        }
-                      ]
-                    },
-                    {
-                      "eligible_positions_to_add": []
-                    },
-                    [],
-                    [],
-                    {
-                      "has_player_notes": 1
-                    },
-                    [],
-                    {
-                      "player_notes_last_timestamp": 1756867008
-                    }
-                  ],
-                  {
-                    "selected_position": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-05"
-                      },
-                      {
-                        "position": "SP"
-                      },
-                      {
-                        "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "is_editable": 1
-                  }
-                ]
-              },
-              "12": {
                 "player": [
                   [
                     {
@@ -1497,7 +1392,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "SP"
@@ -1508,13 +1403,112 @@
                     ]
                   },
                   {
-                    "starting_status": [
+                    "is_editable": 1
+                  }
+                ]
+              },
+              "12": {
+                "player": [
+                  [
+                    {
+                      "player_key": "458.p.11820"
+                    },
+                    {
+                      "player_id": "11820"
+                    },
+                    {
+                      "name": {
+                        "full": "Quinn Priester",
+                        "first": "Quinn",
+                        "last": "Priester",
+                        "ascii_first": "Quinn",
+                        "ascii_last": "Priester"
+                      }
+                    },
+                    {
+                      "url": "https://sports.yahoo.com/mlb/players/11820"
+                    },
+                    {
+                      "editorial_player_key": "mlb.p.11820"
+                    },
+                    {
+                      "editorial_team_key": "mlb.t.8"
+                    },
+                    {
+                      "editorial_team_full_name": "Milwaukee Brewers"
+                    },
+                    {
+                      "editorial_team_abbr": "MIL"
+                    },
+                    {
+                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/milwaukee/"
+                    },
+                    {
+                      "is_keeper": {
+                        "status": false,
+                        "cost": false,
+                        "kept": false
+                      }
+                    },
+                    {
+                      "uniform_number": "46"
+                    },
+                    {
+                      "display_position": "SP,RP"
+                    },
+                    {
+                      "headshot": {
+                        "url": "https://s.yimg.com/iu/api/res/1.2/Bx_TuJSnsBfbSptqwQSvtQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04112025/11820.png",
+                        "size": "small"
+                      },
+                      "image_url": "https://s.yimg.com/iu/api/res/1.2/Bx_TuJSnsBfbSptqwQSvtQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/04112025/11820.png"
+                    },
+                    {
+                      "is_undroppable": "0"
+                    },
+                    {
+                      "position_type": "P"
+                    },
+                    {
+                      "primary_position": "SP"
+                    },
+                    {
+                      "eligible_positions": [
+                        {
+                          "position": "SP"
+                        },
+                        {
+                          "position": "RP"
+                        },
+                        {
+                          "position": "P"
+                        }
+                      ]
+                    },
+                    {
+                      "eligible_positions_to_add": []
+                    },
+                    [],
+                    [],
+                    {
+                      "has_player_notes": 1
+                    },
+                    [],
+                    {
+                      "player_notes_last_timestamp": 1756593213
+                    }
+                  ],
+                  {
+                    "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
-                        "is_starting": 1
+                        "position": "SP"
+                      },
+                      {
+                        "is_flex": 0
                       }
                     ]
                   },
@@ -1606,9 +1600,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1756941097
                     }
@@ -1617,7 +1609,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "RP"
@@ -1715,9 +1707,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1756972839
                     }
@@ -1726,7 +1716,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "RP"
@@ -1833,24 +1823,13 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "P"
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-05"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -1954,24 +1933,13 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "P"
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-05"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -2072,24 +2040,13 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "P"
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-05"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -2190,24 +2147,13 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "P"
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-05"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -2308,7 +2254,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "P"
@@ -2319,13 +2265,109 @@
                     ]
                   },
                   {
-                    "starting_status": [
+                    "is_editable": 1
+                  }
+                ]
+              },
+              "20": {
+                "player": [
+                  [
+                    {
+                      "player_key": "458.p.63640"
+                    },
+                    {
+                      "player_id": "63640"
+                    },
+                    {
+                      "name": {
+                        "full": "Shota Imanaga",
+                        "first": "Shota",
+                        "last": "Imanaga",
+                        "ascii_first": "Shota",
+                        "ascii_last": "Imanaga"
+                      }
+                    },
+                    {
+                      "url": "https://sports.yahoo.com/mlb/players/63640"
+                    },
+                    {
+                      "editorial_player_key": "mlb.p.63640"
+                    },
+                    {
+                      "editorial_team_key": "mlb.t.16"
+                    },
+                    {
+                      "editorial_team_full_name": "Chicago Cubs"
+                    },
+                    {
+                      "editorial_team_abbr": "CHC"
+                    },
+                    {
+                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/chi-cubs/"
+                    },
+                    {
+                      "is_keeper": {
+                        "status": false,
+                        "cost": false,
+                        "kept": false
+                      }
+                    },
+                    {
+                      "uniform_number": "18"
+                    },
+                    {
+                      "display_position": "SP"
+                    },
+                    {
+                      "headshot": {
+                        "url": "https://s.yimg.com/iu/api/res/1.2/_hofgSLYVYUEMM3nDyYbPw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/63640.png",
+                        "size": "small"
+                      },
+                      "image_url": "https://s.yimg.com/iu/api/res/1.2/_hofgSLYVYUEMM3nDyYbPw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03182025/63640.png"
+                    },
+                    {
+                      "is_undroppable": "0"
+                    },
+                    {
+                      "position_type": "P"
+                    },
+                    {
+                      "primary_position": "SP"
+                    },
+                    {
+                      "eligible_positions": [
+                        {
+                          "position": "SP"
+                        },
+                        {
+                          "position": "P"
+                        }
+                      ]
+                    },
+                    {
+                      "eligible_positions_to_add": []
+                    },
+                    [],
+                    [],
+                    {
+                      "has_player_notes": 1
+                    },
+                    [],
+                    {
+                      "player_notes_last_timestamp": 1756867008
+                    }
+                  ],
+                  {
+                    "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
-                        "is_starting": 1
+                        "position": "BN"
+                      },
+                      {
+                        "is_flex": 0
                       }
                     ]
                   },
@@ -2334,7 +2376,7 @@
                   }
                 ]
               },
-              "20": {
+              "21": {
                 "player": [
                   [
                     {
@@ -2426,7 +2468,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "BN"
@@ -2441,7 +2483,7 @@
                   }
                 ]
               },
-              "21": {
+              "22": {
                 "player": [
                   [
                     {
@@ -2533,7 +2575,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "BN"
@@ -2544,109 +2586,13 @@
                     ]
                   },
                   {
-                    "is_editable": 1
-                  }
-                ]
-              },
-              "22": {
-                "player": [
-                  [
-                    {
-                      "player_key": "458.p.60211"
-                    },
-                    {
-                      "player_id": "60211"
-                    },
-                    {
-                      "name": {
-                        "full": "Noah Cameron",
-                        "first": "Noah",
-                        "last": "Cameron",
-                        "ascii_first": "Noah",
-                        "ascii_last": "Cameron"
-                      }
-                    },
-                    {
-                      "url": "https://sports.yahoo.com/mlb/players/60211"
-                    },
-                    {
-                      "editorial_player_key": "mlb.p.60211"
-                    },
-                    {
-                      "editorial_team_key": "mlb.t.7"
-                    },
-                    {
-                      "editorial_team_full_name": "Kansas City Royals"
-                    },
-                    {
-                      "editorial_team_abbr": "KC"
-                    },
-                    {
-                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/kansas-city/"
-                    },
-                    {
-                      "is_keeper": {
-                        "status": false,
-                        "cost": false,
-                        "kept": false
-                      }
-                    },
-                    {
-                      "uniform_number": "65"
-                    },
-                    {
-                      "display_position": "SP"
-                    },
-                    {
-                      "headshot": {
-                        "url": "https://s.yimg.com/iu/api/res/1.2/jMelfdMVTdXRkd7ItK_4Sw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242025/60211.png",
-                        "size": "small"
-                      },
-                      "image_url": "https://s.yimg.com/iu/api/res/1.2/jMelfdMVTdXRkd7ItK_4Sw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03242025/60211.png"
-                    },
-                    {
-                      "is_undroppable": "0"
-                    },
-                    {
-                      "position_type": "P"
-                    },
-                    {
-                      "primary_position": "SP"
-                    },
-                    {
-                      "eligible_positions": [
-                        {
-                          "position": "SP"
-                        },
-                        {
-                          "position": "P"
-                        }
-                      ]
-                    },
-                    {
-                      "eligible_positions_to_add": []
-                    },
-                    [],
-                    [],
-                    {
-                      "has_player_notes": 1
-                    },
-                    [],
-                    {
-                      "player_notes_last_timestamp": 1756730854
-                    }
-                  ],
-                  {
-                    "selected_position": [
+                    "starting_status": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
-                        "position": "BN"
-                      },
-                      {
-                        "is_flex": 0
+                        "is_starting": 1
                       }
                     ]
                   },
@@ -2747,13 +2693,24 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "BN"
                       },
                       {
                         "is_flex": 0
+                      }
+                    ]
+                  },
+                  {
+                    "starting_status": [
+                      {
+                        "coverage_type": "date",
+                        "date": "2025-09-06"
+                      },
+                      {
+                        "is_starting": 1
                       }
                     ]
                   },
@@ -2870,7 +2827,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "IL"
@@ -2990,7 +2947,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-05"
+                        "date": "2025-09-06"
                       },
                       {
                         "position": "IL"
@@ -3011,12 +2968,12 @@
           "outs_pitched": {
             "coverage_type": "week",
             "coverage_value": 22,
-            "value": "59"
+            "value": "74"
           }
         }
       }
     ],
-    "time": "87.607145309448ms",
+    "time": "82.839965820312ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
