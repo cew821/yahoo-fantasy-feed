@@ -575,7 +575,7 @@
                       "image_url": "https://s.yimg.com/iu/api/res/1.2/1zNCeTb2yN_PCALBN47alQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03132025/11731.png"
                     },
                     {
-                      "is_undroppable": "1"
+                      "is_undroppable": "0"
                     },
                     {
                       "position_type": "B"
@@ -1035,9 +1035,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1757282484
                     }
@@ -2833,7 +2831,7 @@
         }
       }
     ],
-    "time": "89.089155197144ms",
+    "time": "81.387042999268ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
