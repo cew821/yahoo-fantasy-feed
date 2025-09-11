@@ -127,9 +127,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1757205226
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1757626471
                 }
               ]
             ]
@@ -1256,10 +1258,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/61324"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.61324"
                 },
                 {
@@ -1410,13 +1408,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1756763220
-                }
+                [],
+                []
               ]
             ]
           },
@@ -1894,10 +1888,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/12615"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.12615"
                 },
                 {
@@ -1959,9 +1949,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1757270253
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1757627207
                 }
               ]
             ]
@@ -2321,7 +2313,7 @@
         }
       }
     ],
-    "time": "177.96397209167ms",
+    "time": "119.71807479858ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
