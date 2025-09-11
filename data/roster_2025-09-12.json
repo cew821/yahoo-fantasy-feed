@@ -727,7 +727,7 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1757570421
+                      "player_notes_last_timestamp": 1757604346
                     }
                   ],
                   {
@@ -1932,7 +1932,7 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1757569267
+                      "player_notes_last_timestamp": 1757604166
                     }
                   ],
                   {
@@ -2285,6 +2285,124 @@
                 "player": [
                   [
                     {
+                      "player_key": "458.p.10597"
+                    },
+                    {
+                      "player_id": "10597"
+                    },
+                    {
+                      "name": {
+                        "full": "Sandy Alcantara",
+                        "first": "Sandy",
+                        "last": "Alcantara",
+                        "ascii_first": "Sandy",
+                        "ascii_last": "Alcantara"
+                      }
+                    },
+                    {
+                      "url": "https://sports.yahoo.com/mlb/players/10597"
+                    },
+                    {
+                      "editorial_player_key": "mlb.p.10597"
+                    },
+                    {
+                      "editorial_team_key": "mlb.t.28"
+                    },
+                    {
+                      "editorial_team_full_name": "Miami Marlins"
+                    },
+                    {
+                      "editorial_team_abbr": "MIA"
+                    },
+                    {
+                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/miami/"
+                    },
+                    {
+                      "is_keeper": {
+                        "status": false,
+                        "cost": false,
+                        "kept": false
+                      }
+                    },
+                    {
+                      "uniform_number": "22"
+                    },
+                    {
+                      "display_position": "SP"
+                    },
+                    {
+                      "headshot": {
+                        "url": "https://s.yimg.com/iu/api/res/1.2/NP9Zjp0XFPHcyxjXngBNaQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03112025/10597.png",
+                        "size": "small"
+                      },
+                      "image_url": "https://s.yimg.com/iu/api/res/1.2/NP9Zjp0XFPHcyxjXngBNaQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03112025/10597.png"
+                    },
+                    {
+                      "is_undroppable": "0"
+                    },
+                    {
+                      "position_type": "P"
+                    },
+                    {
+                      "primary_position": "SP"
+                    },
+                    {
+                      "eligible_positions": [
+                        {
+                          "position": "SP"
+                        },
+                        {
+                          "position": "P"
+                        }
+                      ]
+                    },
+                    {
+                      "eligible_positions_to_add": []
+                    },
+                    [],
+                    [],
+                    {
+                      "has_player_notes": 1
+                    },
+                    [],
+                    {
+                      "player_notes_last_timestamp": 1757223157
+                    }
+                  ],
+                  {
+                    "selected_position": [
+                      {
+                        "coverage_type": "date",
+                        "date": "2025-09-12"
+                      },
+                      {
+                        "position": "P"
+                      },
+                      {
+                        "is_flex": 0
+                      }
+                    ]
+                  },
+                  {
+                    "starting_status": [
+                      {
+                        "coverage_type": "date",
+                        "date": "2025-09-12"
+                      },
+                      {
+                        "is_starting": 1
+                      }
+                    ]
+                  },
+                  {
+                    "is_editable": 1
+                  }
+                ]
+              },
+              "21": {
+                "player": [
+                  [
+                    {
                       "player_key": "458.p.10921"
                     },
                     {
@@ -2376,7 +2494,7 @@
                         "date": "2025-09-12"
                       },
                       {
-                        "position": "P"
+                        "position": "BN"
                       },
                       {
                         "is_flex": 0
@@ -2388,7 +2506,7 @@
                   }
                 ]
               },
-              "21": {
+              "22": {
                 "player": [
                   [
                     {
@@ -2487,124 +2605,6 @@
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "is_editable": 1
-                  }
-                ]
-              },
-              "22": {
-                "player": [
-                  [
-                    {
-                      "player_key": "458.p.10597"
-                    },
-                    {
-                      "player_id": "10597"
-                    },
-                    {
-                      "name": {
-                        "full": "Sandy Alcantara",
-                        "first": "Sandy",
-                        "last": "Alcantara",
-                        "ascii_first": "Sandy",
-                        "ascii_last": "Alcantara"
-                      }
-                    },
-                    {
-                      "url": "https://sports.yahoo.com/mlb/players/10597"
-                    },
-                    {
-                      "editorial_player_key": "mlb.p.10597"
-                    },
-                    {
-                      "editorial_team_key": "mlb.t.28"
-                    },
-                    {
-                      "editorial_team_full_name": "Miami Marlins"
-                    },
-                    {
-                      "editorial_team_abbr": "MIA"
-                    },
-                    {
-                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/miami/"
-                    },
-                    {
-                      "is_keeper": {
-                        "status": false,
-                        "cost": false,
-                        "kept": false
-                      }
-                    },
-                    {
-                      "uniform_number": "22"
-                    },
-                    {
-                      "display_position": "SP"
-                    },
-                    {
-                      "headshot": {
-                        "url": "https://s.yimg.com/iu/api/res/1.2/NP9Zjp0XFPHcyxjXngBNaQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03112025/10597.png",
-                        "size": "small"
-                      },
-                      "image_url": "https://s.yimg.com/iu/api/res/1.2/NP9Zjp0XFPHcyxjXngBNaQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03112025/10597.png"
-                    },
-                    {
-                      "is_undroppable": "0"
-                    },
-                    {
-                      "position_type": "P"
-                    },
-                    {
-                      "primary_position": "SP"
-                    },
-                    {
-                      "eligible_positions": [
-                        {
-                          "position": "SP"
-                        },
-                        {
-                          "position": "P"
-                        }
-                      ]
-                    },
-                    {
-                      "eligible_positions_to_add": []
-                    },
-                    [],
-                    [],
-                    {
-                      "has_player_notes": 1
-                    },
-                    [],
-                    {
-                      "player_notes_last_timestamp": 1757223157
-                    }
-                  ],
-                  {
-                    "selected_position": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-12"
-                      },
-                      {
-                        "position": "BN"
-                      },
-                      {
-                        "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-12"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -2854,7 +2854,7 @@
         }
       }
     ],
-    "time": "93.500137329102ms",
+    "time": "74.270963668823ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
