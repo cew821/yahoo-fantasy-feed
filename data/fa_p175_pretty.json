@@ -13,12 +13,14 @@
         "num_teams": 10,
         "edit_key": "2025-09-12",
         "weekly_deadline": "",
+        "roster_type": "",
         "league_update_timestamp": "1757577068",
         "scoring_type": "head",
         "league_type": "private",
         "renew": "431_84492",
         "renewed": "",
         "felo_tier": "silver",
+        "is_highscore": false,
         "matchup_week": 23,
         "iris_group_chat_id": "",
         "allow_add_to_dl_extra_pos": 1,
@@ -29,6 +31,7 @@
         "start_date": "2025-03-18",
         "end_week": "24",
         "end_date": "2025-09-21",
+        "current_date": "2025-09-11",
         "is_plus_league": "0",
         "game_code": "mlb",
         "season": "2025"
@@ -2305,7 +2308,7 @@
         }
       }
     ],
-    "time": "125.35214424133ms",
+    "time": "98.601102828979ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
