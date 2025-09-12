@@ -1838,6 +1838,16 @@
                   "url": "https://sports.yahoo.com/mlb/players/12661"
                 },
                 {
+                  "status": "IL15",
+                  "status_full": "15-Day Injured List"
+                },
+                {
+                  "injury_note": "Lat"
+                },
+                {
+                  "on_disabled_list": "1"
+                },
+                {
                   "editorial_player_key": "mlb.p.12661"
                 },
                 {
@@ -1891,6 +1901,9 @@
                     },
                     {
                       "position": "P"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -1902,9 +1915,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1756863834
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1757702642
                 }
               ]
             ]
@@ -2282,7 +2297,7 @@
         }
       }
     ],
-    "time": "103.16610336304ms",
+    "time": "137.9599571228ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
