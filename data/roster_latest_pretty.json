@@ -1374,7 +1374,7 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1757706389
+                      "player_notes_last_timestamp": 1757707116
                     }
                   ],
                   {
@@ -2130,9 +2130,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1757624237
                     }
@@ -2348,9 +2346,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757245220
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757707447
                     }
                   ],
                   {
@@ -2364,17 +2364,6 @@
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-13"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -2805,9 +2794,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757447914
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757709417
                     }
                   ],
                   {
@@ -2840,7 +2831,7 @@
         }
       }
     ],
-    "time": "80.235004425049ms",
+    "time": "90.210914611816ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
