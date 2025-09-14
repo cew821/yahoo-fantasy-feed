@@ -1,7 +1,7 @@
 {
   "fantasy_content": {
     "xml:lang": "en-US",
-    "yahoo:uri": "/fantasy/v2/team/458.l.17400.t.3/roster;date=2025-09-14/players",
+    "yahoo:uri": "/fantasy/v2/team/458.l.17400.t.3/roster;date=2025-09-15/players",
     "team": [
       [
         {
@@ -85,7 +85,7 @@
       {
         "roster": {
           "coverage_type": "date",
-          "date": "2025-09-14",
+          "date": "2025-09-15",
           "is_prescoring": 0,
           "is_editable": 1,
           "0": {
@@ -94,44 +94,37 @@
                 "player": [
                   [
                     {
-                      "player_key": "458.p.10642"
+                      "player_key": "458.p.62979"
                     },
                     {
-                      "player_id": "10642"
+                      "player_id": "62979"
                     },
                     {
                       "name": {
-                        "full": "Will Smith",
-                        "first": "Will",
-                        "last": "Smith",
-                        "ascii_first": "Will",
-                        "ascii_last": "Smith"
+                        "full": "Kyle Teel",
+                        "first": "Kyle",
+                        "last": "Teel",
+                        "ascii_first": "Kyle",
+                        "ascii_last": "Teel"
                       }
                     },
                     {
-                      "url": "https://sports.yahoo.com/mlb/players/10642"
+                      "url": "https://sports.yahoo.com/mlb/players/62979"
                     },
                     {
-                      "status": "DTD",
-                      "status_full": "Day-to-Day"
+                      "editorial_player_key": "mlb.p.62979"
                     },
                     {
-                      "injury_note": "Hand"
+                      "editorial_team_key": "mlb.t.4"
                     },
                     {
-                      "editorial_player_key": "mlb.p.10642"
+                      "editorial_team_full_name": "Chicago White Sox"
                     },
                     {
-                      "editorial_team_key": "mlb.t.19"
+                      "editorial_team_abbr": "CWS"
                     },
                     {
-                      "editorial_team_full_name": "Los Angeles Dodgers"
-                    },
-                    {
-                      "editorial_team_abbr": "LAD"
-                    },
-                    {
-                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/la-dodgers/"
+                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/chi-white-sox/"
                     },
                     {
                       "is_keeper": {
@@ -141,17 +134,17 @@
                       }
                     },
                     {
-                      "uniform_number": "16"
+                      "uniform_number": "8"
                     },
                     {
                       "display_position": "C"
                     },
                     {
                       "headshot": {
-                        "url": "https://s.yimg.com/iu/api/res/1.2/._L7TAXQVesZQ2BizdBYVQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/10642.png",
+                        "url": "https://s.yimg.com/iu/api/res/1.2/J0q1GaAxiFFaOibCgeNPsw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06092025/62979.png",
                         "size": "small"
                       },
-                      "image_url": "https://s.yimg.com/iu/api/res/1.2/._L7TAXQVesZQ2BizdBYVQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/10642.png"
+                      "image_url": "https://s.yimg.com/iu/api/res/1.2/J0q1GaAxiFFaOibCgeNPsw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06092025/62979.png"
                     },
                     {
                       "is_undroppable": "0"
@@ -180,18 +173,16 @@
                     {
                       "has_player_notes": 1
                     },
+                    [],
                     {
-                      "has_recent_player_notes": 1
-                    },
-                    {
-                      "player_notes_last_timestamp": 1757717469
+                      "player_notes_last_timestamp": 1757509193
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "C"
@@ -289,16 +280,18 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757485905
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757828232
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "1B"
@@ -411,7 +404,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "2B"
@@ -518,7 +511,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "3B"
@@ -616,16 +609,18 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1756929600
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757817062
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "SS"
@@ -723,16 +718,18 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757604346
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757825353
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "OF"
@@ -839,7 +836,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "OF"
@@ -937,16 +934,18 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757513668
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757790823
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "OF"
@@ -962,113 +961,6 @@
                 ]
               },
               "8": {
-                "player": [
-                  [
-                    {
-                      "player_key": "458.p.62979"
-                    },
-                    {
-                      "player_id": "62979"
-                    },
-                    {
-                      "name": {
-                        "full": "Kyle Teel",
-                        "first": "Kyle",
-                        "last": "Teel",
-                        "ascii_first": "Kyle",
-                        "ascii_last": "Teel"
-                      }
-                    },
-                    {
-                      "url": "https://sports.yahoo.com/mlb/players/62979"
-                    },
-                    {
-                      "editorial_player_key": "mlb.p.62979"
-                    },
-                    {
-                      "editorial_team_key": "mlb.t.4"
-                    },
-                    {
-                      "editorial_team_full_name": "Chicago White Sox"
-                    },
-                    {
-                      "editorial_team_abbr": "CWS"
-                    },
-                    {
-                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/chi-white-sox/"
-                    },
-                    {
-                      "is_keeper": {
-                        "status": false,
-                        "cost": false,
-                        "kept": false
-                      }
-                    },
-                    {
-                      "uniform_number": "8"
-                    },
-                    {
-                      "display_position": "C"
-                    },
-                    {
-                      "headshot": {
-                        "url": "https://s.yimg.com/iu/api/res/1.2/J0q1GaAxiFFaOibCgeNPsw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06092025/62979.png",
-                        "size": "small"
-                      },
-                      "image_url": "https://s.yimg.com/iu/api/res/1.2/J0q1GaAxiFFaOibCgeNPsw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/06092025/62979.png"
-                    },
-                    {
-                      "is_undroppable": "0"
-                    },
-                    {
-                      "position_type": "B"
-                    },
-                    {
-                      "primary_position": "C"
-                    },
-                    {
-                      "eligible_positions": [
-                        {
-                          "position": "C"
-                        },
-                        {
-                          "position": "Util"
-                        }
-                      ]
-                    },
-                    {
-                      "eligible_positions_to_add": []
-                    },
-                    [],
-                    [],
-                    {
-                      "has_player_notes": 1
-                    },
-                    [],
-                    {
-                      "player_notes_last_timestamp": 1757509193
-                    }
-                  ],
-                  {
-                    "selected_position": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-14"
-                      },
-                      {
-                        "position": "Util"
-                      },
-                      {
-                        "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "is_editable": 1
-                  }
-                ]
-              },
-              "9": {
                 "player": [
                   [
                     {
@@ -1154,9 +1046,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1757692464
                     }
@@ -1165,7 +1055,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "Util"
@@ -1180,7 +1070,7 @@
                   }
                 ]
               },
-              "10": {
+              "9": {
                 "player": [
                   [
                     {
@@ -1272,7 +1162,129 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
+                      },
+                      {
+                        "position": "Util"
+                      },
+                      {
+                        "is_flex": 0
+                      }
+                    ]
+                  },
+                  {
+                    "is_editable": 1
+                  }
+                ]
+              },
+              "10": {
+                "player": [
+                  [
+                    {
+                      "player_key": "458.p.10642"
+                    },
+                    {
+                      "player_id": "10642"
+                    },
+                    {
+                      "name": {
+                        "full": "Will Smith",
+                        "first": "Will",
+                        "last": "Smith",
+                        "ascii_first": "Will",
+                        "ascii_last": "Smith"
+                      }
+                    },
+                    {
+                      "url": "https://sports.yahoo.com/mlb/players/10642"
+                    },
+                    {
+                      "status": "IL10",
+                      "status_full": "10-Day Injured List"
+                    },
+                    {
+                      "injury_note": "Hand"
+                    },
+                    {
+                      "on_disabled_list": "1"
+                    },
+                    {
+                      "editorial_player_key": "mlb.p.10642"
+                    },
+                    {
+                      "editorial_team_key": "mlb.t.19"
+                    },
+                    {
+                      "editorial_team_full_name": "Los Angeles Dodgers"
+                    },
+                    {
+                      "editorial_team_abbr": "LAD"
+                    },
+                    {
+                      "editorial_team_url": "https://sports.yahoo.com/mlb/teams/la-dodgers/"
+                    },
+                    {
+                      "is_keeper": {
+                        "status": false,
+                        "cost": false,
+                        "kept": false
+                      }
+                    },
+                    {
+                      "uniform_number": "16"
+                    },
+                    {
+                      "display_position": "C"
+                    },
+                    {
+                      "headshot": {
+                        "url": "https://s.yimg.com/iu/api/res/1.2/._L7TAXQVesZQ2BizdBYVQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/10642.png",
+                        "size": "small"
+                      },
+                      "image_url": "https://s.yimg.com/iu/api/res/1.2/._L7TAXQVesZQ2BizdBYVQ--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03102025/10642.png"
+                    },
+                    {
+                      "is_undroppable": "0"
+                    },
+                    {
+                      "position_type": "B"
+                    },
+                    {
+                      "primary_position": "C"
+                    },
+                    {
+                      "eligible_positions": [
+                        {
+                          "position": "C"
+                        },
+                        {
+                          "position": "Util"
+                        },
+                        {
+                          "position": "IL"
+                        }
+                      ]
+                    },
+                    {
+                      "eligible_positions_to_add": []
+                    },
+                    [],
+                    [],
+                    {
+                      "has_player_notes": 1
+                    },
+                    {
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757806374
+                    }
+                  ],
+                  {
+                    "selected_position": [
+                      {
+                        "coverage_type": "date",
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "BN"
@@ -1307,13 +1319,6 @@
                     },
                     {
                       "url": "https://sports.yahoo.com/mlb/players/10036"
-                    },
-                    {
-                      "status": "DTD",
-                      "status_full": "Day-to-Day"
-                    },
-                    {
-                      "injury_note": "Foot"
                     },
                     {
                       "editorial_player_key": "mlb.p.10036"
@@ -1381,14 +1386,14 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1757712159
+                      "player_notes_last_timestamp": 1757803148
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "BN"
@@ -1489,9 +1494,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1757740931
                     }
@@ -1500,7 +1503,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "SP"
@@ -1607,7 +1610,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "SP"
@@ -1702,19 +1705,15 @@
                     },
                     [],
                     [],
-                    {
-                      "has_player_notes": 1
-                    },
                     [],
-                    {
-                      "player_notes_last_timestamp": 1756941097
-                    }
+                    [],
+                    []
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "RP"
@@ -1809,19 +1808,15 @@
                     },
                     [],
                     [],
-                    {
-                      "has_player_notes": 1
-                    },
                     [],
-                    {
-                      "player_notes_last_timestamp": 1756972839
-                    }
+                    [],
+                    []
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "RP"
@@ -1928,7 +1923,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "P"
@@ -2029,16 +2024,18 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757512980
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1757810875
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "P"
@@ -2148,7 +2145,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "P"
@@ -2255,7 +2252,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "P"
@@ -2362,24 +2359,13 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
-                        "position": "P"
+                        "position": "BN"
                       },
                       {
                         "is_flex": 0
-                      }
-                    ]
-                  },
-                  {
-                    "starting_status": [
-                      {
-                        "coverage_type": "date",
-                        "date": "2025-09-14"
-                      },
-                      {
-                        "is_starting": 1
                       }
                     ]
                   },
@@ -2471,9 +2457,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1757707447
                     }
@@ -2482,7 +2466,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "BN"
@@ -2584,14 +2568,14 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1757726788
+                      "player_notes_last_timestamp": 1757772144
                     }
                   ],
                   {
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "BN"
@@ -2698,7 +2682,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "BN"
@@ -2812,9 +2796,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1757709417
                     }
@@ -2823,7 +2805,7 @@
                     "selected_position": [
                       {
                         "coverage_type": "date",
-                        "date": "2025-09-14"
+                        "date": "2025-09-15"
                       },
                       {
                         "position": "IL"
@@ -2843,13 +2825,13 @@
           },
           "outs_pitched": {
             "coverage_type": "week",
-            "coverage_value": 23,
-            "value": "145"
+            "coverage_value": 24,
+            "value": "0"
           }
         }
       }
     ],
-    "time": "65.600872039795ms",
+    "time": "74.787139892578ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
