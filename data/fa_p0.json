@@ -393,9 +393,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1757874391
                 }
@@ -1698,9 +1696,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1757874205
                 }
@@ -1986,103 +1982,6 @@
             "player": [
               [
                 {
-                  "player_key": "458.p.63143"
-                },
-                {
-                  "player_id": "63143"
-                },
-                {
-                  "name": {
-                    "full": "Connelly Early",
-                    "first": "Connelly",
-                    "last": "Early",
-                    "ascii_first": "Connelly",
-                    "ascii_last": "Early"
-                  }
-                },
-                {
-                  "url": "https://sports.yahoo.com/mlb/players/63143"
-                },
-                {
-                  "editorial_player_key": "mlb.p.63143"
-                },
-                {
-                  "editorial_team_key": "mlb.t.2"
-                },
-                {
-                  "editorial_team_full_name": "Boston Red Sox"
-                },
-                {
-                  "editorial_team_abbr": "BOS"
-                },
-                {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/boston/"
-                },
-                {
-                  "is_keeper": {
-                    "status": false,
-                    "cost": false,
-                    "kept": false
-                  }
-                },
-                {
-                  "uniform_number": "71"
-                },
-                {
-                  "display_position": "SP"
-                },
-                {
-                  "headshot": {
-                    "url": "https://s.yimg.com/iu/api/res/1.2/TcM85WhJ.fAOHWf2QKLjIw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMDA7Y3I9MTtjdz0xNTM7ZHg9NzQ7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png",
-                    "size": "small"
-                  },
-                  "image_url": "https://s.yimg.com/iu/api/res/1.2/TcM85WhJ.fAOHWf2QKLjIw--~C/YXBwaWQ9eXNwb3J0cztjaD0yMDA7Y3I9MTtjdz0xNTM7ZHg9NzQ7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/dh/ap/default/140828/silhouette@2x.png"
-                },
-                {
-                  "is_undroppable": "0"
-                },
-                {
-                  "position_type": "P"
-                },
-                {
-                  "primary_position": "SP"
-                },
-                {
-                  "eligible_positions": [
-                    {
-                      "position": "SP"
-                    },
-                    {
-                      "position": "P"
-                    }
-                  ]
-                },
-                {
-                  "eligible_positions_to_add": []
-                },
-                [],
-                [],
-                [],
-                [],
-                []
-              ],
-              {
-                "starting_status": [
-                  {
-                    "coverage_type": "date",
-                    "date": "2025-09-16"
-                  },
-                  {
-                    "is_starting": 1
-                  }
-                ]
-              }
-            ]
-          },
-          "22": {
-            "player": [
-              [
-                {
                   "player_key": "458.p.63477"
                 },
                 {
@@ -2168,7 +2067,7 @@
               ]
             ]
           },
-          "23": {
+          "22": {
             "player": [
               [
                 {
@@ -2258,7 +2157,7 @@
               ]
             ]
           },
-          "24": {
+          "23": {
             "player": [
               [
                 {
@@ -2344,11 +2243,104 @@
               ]
             ]
           },
+          "24": {
+            "player": [
+              [
+                {
+                  "player_key": "458.p.9868"
+                },
+                {
+                  "player_id": "9868"
+                },
+                {
+                  "name": {
+                    "full": "Sean Newcomb",
+                    "first": "Sean",
+                    "last": "Newcomb",
+                    "ascii_first": "Sean",
+                    "ascii_last": "Newcomb"
+                  }
+                },
+                {
+                  "url": "https://sports.yahoo.com/mlb/players/9868"
+                },
+                {
+                  "editorial_player_key": "mlb.p.9868"
+                },
+                {
+                  "editorial_team_key": "mlb.t.11"
+                },
+                {
+                  "editorial_team_full_name": " Athletics"
+                },
+                {
+                  "editorial_team_abbr": "ATH"
+                },
+                {
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/athletics/"
+                },
+                {
+                  "is_keeper": {
+                    "status": false,
+                    "cost": false,
+                    "kept": false
+                  }
+                },
+                {
+                  "uniform_number": "31"
+                },
+                {
+                  "display_position": "SP,RP"
+                },
+                {
+                  "headshot": {
+                    "url": "https://s.yimg.com/iu/api/res/1.2/TjM8jhrbVEChtbc8_UtQ9A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03112024/9868.png",
+                    "size": "small"
+                  },
+                  "image_url": "https://s.yimg.com/iu/api/res/1.2/TjM8jhrbVEChtbc8_UtQ9A--~C/YXBwaWQ9eXNwb3J0cztjaD0yMzM2O2NyPTE7Y3c9MTc5MDtkeD04NTc7ZHk9MDtmaT11bGNyb3A7aD02MDtxPTEwMDt3PTQ2/https://s.yimg.com/xe/i/us/sp/v/mlb_cutout/players_l/03112024/9868.png"
+                },
+                {
+                  "is_undroppable": "0"
+                },
+                {
+                  "position_type": "P"
+                },
+                {
+                  "primary_position": "SP"
+                },
+                {
+                  "eligible_positions": [
+                    {
+                      "position": "SP"
+                    },
+                    {
+                      "position": "RP"
+                    },
+                    {
+                      "position": "P"
+                    }
+                  ]
+                },
+                {
+                  "eligible_positions_to_add": []
+                },
+                [],
+                [],
+                {
+                  "has_player_notes": 1
+                },
+                [],
+                {
+                  "player_notes_last_timestamp": 1757743998
+                }
+              ]
+            ]
+          },
           "count": 25
         }
       }
     ],
-    "time": "146.69299125671ms",
+    "time": "159.48486328125ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
