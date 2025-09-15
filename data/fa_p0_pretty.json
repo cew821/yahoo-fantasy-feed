@@ -2067,7 +2067,18 @@
                 [],
                 [],
                 []
-              ]
+              ],
+              {
+                "starting_status": [
+                  {
+                    "coverage_type": "date",
+                    "date": "2025-09-16"
+                  },
+                  {
+                    "is_starting": 1
+                  }
+                ]
+              }
             ]
           },
           "22": {
@@ -2339,7 +2350,7 @@
         }
       }
     ],
-    "time": "119.86303329468ms",
+    "time": "130.4829120636ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
