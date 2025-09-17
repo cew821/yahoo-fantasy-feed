@@ -13,7 +13,7 @@
         "num_teams": 10,
         "edit_key": "2025-09-18",
         "weekly_deadline": "",
-        "roster_type": "",
+        "roster_type": "date",
         "league_update_timestamp": "1758095461",
         "scoring_type": "head",
         "league_type": "private",
@@ -1388,9 +1388,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1758056022
                 }
@@ -2304,7 +2302,7 @@
         }
       }
     ],
-    "time": "112.47897148132ms",
+    "time": "111.29403114319ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
