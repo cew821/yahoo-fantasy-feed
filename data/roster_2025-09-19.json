@@ -609,9 +609,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1758144043
                     }
@@ -825,9 +823,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757639446
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1758231999
                     }
                   ],
                   {
@@ -1153,7 +1153,7 @@
                       "has_recent_player_notes": 1
                     },
                     {
-                      "player_notes_last_timestamp": 1758163034
+                      "player_notes_last_timestamp": 1758230717
                     }
                   ],
                   {
@@ -2130,9 +2130,7 @@
                     {
                       "has_player_notes": 1
                     },
-                    {
-                      "has_recent_player_notes": 1
-                    },
+                    [],
                     {
                       "player_notes_last_timestamp": 1758144035
                     }
@@ -2575,9 +2573,11 @@
                     {
                       "has_player_notes": 1
                     },
-                    [],
                     {
-                      "player_notes_last_timestamp": 1757772144
+                      "has_recent_player_notes": 1
+                    },
+                    {
+                      "player_notes_last_timestamp": 1758231994
                     }
                   ],
                   {
@@ -2829,7 +2829,7 @@
         }
       }
     ],
-    "time": "106.66990280151ms",
+    "time": "65.659046173096ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
