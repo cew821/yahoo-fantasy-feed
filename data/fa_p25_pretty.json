@@ -1698,13 +1698,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/62057"
                 },
                 {
-                  "status": "DTD",
-                  "status_full": "Day-to-Day"
-                },
-                {
-                  "injury_note": "Thumb"
-                },
-                {
                   "editorial_player_key": "mlb.p.62057"
                 },
                 {
@@ -1769,9 +1762,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758468744
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1758569108
                 }
               ]
             ]
@@ -2324,7 +2319,7 @@
         }
       }
     ],
-    "time": "116.33896827698ms",
+    "time": "106.95600509644ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

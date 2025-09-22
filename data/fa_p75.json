@@ -1792,16 +1792,16 @@
                   "editorial_player_key": "mlb.p.11193"
                 },
                 {
-                  "editorial_team_key": "mlb.t.8"
+                  "editorial_team_key": "mlb.t.15"
                 },
                 {
-                  "editorial_team_full_name": "Milwaukee Brewers"
+                  "editorial_team_full_name": "Atlanta Braves"
                 },
                 {
-                  "editorial_team_abbr": "MIL"
+                  "editorial_team_abbr": "ATL"
                 },
                 {
-                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/milwaukee/"
+                  "editorial_team_url": "https://sports.yahoo.com/mlb/teams/atlanta/"
                 },
                 {
                   "is_keeper": {
@@ -1850,9 +1850,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758396006
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1758569550
                 }
               ]
             ]
@@ -2319,7 +2321,7 @@
         }
       }
     ],
-    "time": "118.00694465637ms",
+    "time": "109.48204994202ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
