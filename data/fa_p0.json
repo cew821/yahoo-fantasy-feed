@@ -605,6 +605,13 @@
                   "url": "https://sports.yahoo.com/mlb/players/11097"
                 },
                 {
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
+                },
+                {
+                  "injury_note": "Wrist"
+                },
+                {
                   "editorial_player_key": "mlb.p.11097"
                 },
                 {
@@ -666,9 +673,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758487281
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1758660779
                 }
               ]
             ]
@@ -1420,13 +1429,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/12582"
                 },
                 {
-                  "status": "DTD",
-                  "status_full": "Day-to-Day"
-                },
-                {
-                  "injury_note": "Knee"
-                },
-                {
                   "editorial_player_key": "mlb.p.12582"
                 },
                 {
@@ -1488,9 +1490,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758570489
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1758659798
                 }
               ]
             ]
@@ -1957,9 +1961,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1758572267
                 }
@@ -2332,7 +2334,7 @@
         }
       }
     ],
-    "time": "123.16513061523ms",
+    "time": "76.5540599823ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
