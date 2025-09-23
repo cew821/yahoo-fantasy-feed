@@ -406,9 +406,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758468418
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1758655968
                 }
               ]
             ]
@@ -1789,6 +1791,16 @@
                   "url": "https://sports.yahoo.com/mlb/players/10159"
                 },
                 {
+                  "status": "IL10",
+                  "status_full": "10-Day Injured List"
+                },
+                {
+                  "injury_note": "Achilles"
+                },
+                {
+                  "on_disabled_list": "1"
+                },
+                {
                   "editorial_player_key": "mlb.p.10159"
                 },
                 {
@@ -1839,6 +1851,9 @@
                     },
                     {
                       "position": "Util"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -1850,9 +1865,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758477830
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1758655520
                 }
               ]
             ]
@@ -2206,9 +2223,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1758569550
                 }
@@ -2305,7 +2320,7 @@
         }
       }
     ],
-    "time": "175.88400840759ms",
+    "time": "88.648080825806ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
