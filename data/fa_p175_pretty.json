@@ -1852,6 +1852,16 @@
                   "url": "https://sports.yahoo.com/mlb/players/10747"
                 },
                 {
+                  "status": "IL10",
+                  "status_full": "10-Day Injured List"
+                },
+                {
+                  "injury_note": "Knee"
+                },
+                {
+                  "on_disabled_list": "1"
+                },
+                {
                   "editorial_player_key": "mlb.p.10747"
                 },
                 {
@@ -1902,6 +1912,9 @@
                     },
                     {
                       "position": "Util"
+                    },
+                    {
+                      "position": "IL"
                     }
                   ]
                 },
@@ -2291,7 +2304,7 @@
         }
       }
     ],
-    "time": "123.89898300171ms",
+    "time": "130.43022155762ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
