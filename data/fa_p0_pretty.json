@@ -623,6 +623,13 @@
                   "url": "https://sports.yahoo.com/mlb/players/11349"
                 },
                 {
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
+                },
+                {
+                  "injury_note": "Lower Body"
+                },
+                {
                   "editorial_player_key": "mlb.p.11349"
                 },
                 {
@@ -688,7 +695,7 @@
                   "has_recent_player_notes": 1
                 },
                 {
-                  "player_notes_last_timestamp": 1758833882
+                  "player_notes_last_timestamp": 1758837367
                 }
               ]
             ]
@@ -2335,7 +2342,7 @@
         }
       }
     ],
-    "time": "163.49101066589ms",
+    "time": "120.05496025085ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
