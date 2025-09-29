@@ -330,6 +330,13 @@
                   "url": "https://sports.yahoo.com/mlb/players/11349"
                 },
                 {
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
+                },
+                {
+                  "injury_note": "Thumb"
+                },
+                {
                   "editorial_player_key": "mlb.p.11349"
                 },
                 {
@@ -391,9 +398,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758918033
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1759176563
                 }
               ]
             ]
@@ -2299,7 +2308,7 @@
         }
       }
     ],
-    "time": "84.762096405029ms",
+    "time": "105.77297210693ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
