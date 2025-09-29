@@ -687,6 +687,13 @@
                   "url": "https://sports.yahoo.com/mlb/players/10076"
                 },
                 {
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
+                },
+                {
+                  "injury_note": "Oblique"
+                },
+                {
                   "editorial_player_key": "mlb.p.10076"
                 },
                 {
@@ -752,7 +759,7 @@
                   "has_recent_player_notes": 1
                 },
                 {
-                  "player_notes_last_timestamp": 1759082395
+                  "player_notes_last_timestamp": 1759155918
                 }
               ]
             ]
@@ -2296,7 +2303,7 @@
         }
       }
     ],
-    "time": "158.36405754089ms",
+    "time": "141.38698577881ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
