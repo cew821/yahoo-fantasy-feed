@@ -1826,13 +1826,13 @@
                 {
                   "icon_urls": {
                     "player_card": {
-                      "text": "Torpedo Bat",
+                      "dark": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
                       "light": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
-                      "dark": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png"
+                      "text": "Torpedo Bat"
                     },
                     "team_roster": {
-                      "light": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
-                      "dark": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png"
+                      "dark": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png",
+                      "light": "https://s.yimg.com/cv/apiv2/default/20250402/torpedo_icon@3x.png"
                     }
                   }
                 },
@@ -2317,7 +2317,7 @@
         }
       }
     ],
-    "time": "135.18977165222ms",
+    "time": "150.82097053528ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
