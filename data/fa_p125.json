@@ -1409,7 +1409,7 @@
                   "status_full": "15-Day Injured List"
                 },
                 {
-                  "injury_note": "Undisclosed"
+                  "injury_note": "Shoulder"
                 },
                 {
                   "on_disabled_list": "1"
@@ -1479,9 +1479,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758928207
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1759520609
                 }
               ]
             ]
@@ -2300,7 +2302,7 @@
         }
       }
     ],
-    "time": "417.71101951599ms",
+    "time": "224.88903999329ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
