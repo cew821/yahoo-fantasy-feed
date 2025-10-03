@@ -675,8 +675,8 @@
                   "url": "https://sports.yahoo.com/mlb/players/10076"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
                 },
                 {
                   "injury_note": "Oblique"
@@ -1317,10 +1317,6 @@
                   "url": "https://sports.yahoo.com/mlb/players/63515"
                 },
                 {
-                  "status": "NA",
-                  "status_full": "Not Active"
-                },
-                {
                   "editorial_player_key": "mlb.p.63515"
                 },
                 {
@@ -1648,9 +1644,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1759382015
                 }
@@ -2279,7 +2273,7 @@
         }
       }
     ],
-    "time": "121.95992469788ms",
+    "time": "137.54796981812ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
