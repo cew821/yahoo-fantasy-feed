@@ -394,7 +394,7 @@
                   "has_recent_player_notes": 1
                 },
                 {
-                  "player_notes_last_timestamp": 1759536134
+                  "player_notes_last_timestamp": 1759623297
                 }
               ]
             ]
@@ -482,9 +482,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1759378778
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1759630716
                 }
               ]
             ]
@@ -662,13 +664,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758783712
-                }
+                [],
+                []
               ]
             ]
           },
@@ -868,10 +866,6 @@
                 },
                 {
                   "url": "https://sports.yahoo.com/mlb/players/10413"
-                },
-                {
-                  "status": "NA",
-                  "status_full": "Not Active"
                 },
                 {
                   "editorial_player_key": "mlb.p.10413"
@@ -2255,13 +2249,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758721594
-                }
+                [],
+                []
               ]
             ]
           },
@@ -2269,7 +2259,7 @@
         }
       }
     ],
-    "time": "119.17901039124ms",
+    "time": "389.31393623352ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
