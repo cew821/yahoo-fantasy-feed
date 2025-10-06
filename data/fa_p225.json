@@ -294,9 +294,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1758888724
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1759708554
                 }
               ]
             ]
@@ -381,13 +383,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758819668
-                }
+                [],
+                []
               ]
             ]
           },
@@ -1005,9 +1003,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1759594342
                 }
@@ -1455,13 +1451,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758852872
-                }
+                [],
+                []
               ]
             ]
           },
@@ -1725,13 +1717,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758846970
-                }
+                [],
+                []
               ]
             ]
           },
@@ -1815,13 +1803,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758836502
-                }
+                [],
+                []
               ]
             ]
           },
@@ -2271,7 +2255,7 @@
         }
       }
     ],
-    "time": "183.48908424377ms",
+    "time": "96.177101135254ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

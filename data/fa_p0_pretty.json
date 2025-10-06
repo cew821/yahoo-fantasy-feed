@@ -1394,13 +1394,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1758836505
-                }
+                [],
+                []
               ]
             ]
           },
@@ -1487,9 +1483,11 @@
                 {
                   "has_player_notes": 1
                 },
-                [],
                 {
-                  "player_notes_last_timestamp": 1759085950
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1759687790
                 }
               ]
             ]
@@ -2036,9 +2034,7 @@
                 {
                   "has_player_notes": 1
                 },
-                {
-                  "has_recent_player_notes": 1
-                },
+                [],
                 {
                   "player_notes_last_timestamp": 1759593068
                 }
@@ -2211,9 +2207,15 @@
                 },
                 [],
                 [],
-                [],
-                [],
-                []
+                {
+                  "has_player_notes": 1
+                },
+                {
+                  "has_recent_player_notes": 1
+                },
+                {
+                  "player_notes_last_timestamp": 1759692576
+                }
               ]
             ]
           },
@@ -2307,7 +2309,7 @@
         }
       }
     ],
-    "time": "111.33599281311ms",
+    "time": "86.07006072998ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
