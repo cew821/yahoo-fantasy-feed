@@ -857,14 +857,11 @@
                   "url": "https://sports.yahoo.com/mlb/players/9455"
                 },
                 {
-                  "status": "IL15",
-                  "status_full": "15-Day Injured List"
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
                 },
                 {
                   "injury_note": "Oblique"
-                },
-                {
-                  "on_disabled_list": "1"
                 },
                 {
                   "editorial_player_key": "mlb.p.9455"
@@ -917,9 +914,6 @@
                     },
                     {
                       "position": "P"
-                    },
-                    {
-                      "position": "IL"
                     }
                   ]
                 },
@@ -2254,7 +2248,7 @@
         }
       }
     ],
-    "time": "487.80083656311ms",
+    "time": "98.642110824585ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

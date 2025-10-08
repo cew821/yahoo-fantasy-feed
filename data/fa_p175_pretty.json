@@ -1032,14 +1032,11 @@
                   "url": "https://sports.yahoo.com/mlb/players/11796"
                 },
                 {
-                  "status": "IL10",
-                  "status_full": "10-Day Injured List"
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
                 },
                 {
                   "injury_note": "Oblique"
-                },
-                {
-                  "on_disabled_list": "1"
                 },
                 {
                   "editorial_player_key": "mlb.p.11796"
@@ -1095,9 +1092,6 @@
                     },
                     {
                       "position": "Util"
-                    },
-                    {
-                      "position": "IL"
                     }
                   ]
                 },
@@ -2287,7 +2281,7 @@
         }
       }
     ],
-    "time": "122.68686294556ms",
+    "time": "126.32012367249ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }

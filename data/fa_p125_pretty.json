@@ -833,13 +833,9 @@
                 },
                 [],
                 [],
-                {
-                  "has_player_notes": 1
-                },
                 [],
-                {
-                  "player_notes_last_timestamp": 1759075644
-                }
+                [],
+                []
               ]
             ]
           },
@@ -1389,14 +1385,11 @@
                   "url": "https://sports.yahoo.com/mlb/players/11404"
                 },
                 {
-                  "status": "IL15",
-                  "status_full": "15-Day Injured List"
+                  "status": "DTD",
+                  "status_full": "Day-to-Day"
                 },
                 {
                   "injury_note": "Shoulder"
-                },
-                {
-                  "on_disabled_list": "1"
                 },
                 {
                   "editorial_player_key": "mlb.p.11404"
@@ -1449,9 +1442,6 @@
                     },
                     {
                       "position": "P"
-                    },
-                    {
-                      "position": "IL"
                     }
                   ]
                 },
@@ -2276,7 +2266,7 @@
         }
       }
     ],
-    "time": "114.54391479492ms",
+    "time": "805.19604682922ms",
     "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
     "refresh_rate": "60"
   }
